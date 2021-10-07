@@ -57,6 +57,7 @@
     <Compile Include="Assets\Scripts\Throw.cs" />
     <Compile Include="Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs" />
     <Compile Include="Assets\Scripts\Float.cs" />
+    <Compile Include="Assets\Scripts\CameraChange.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader" />

@@ -12,6 +12,11 @@ public class PlayerController : MonoBehaviour
     [SerializeField] [Range(0.0f, 0.5f)] float moveSmoothTime = 0.3f;
     [SerializeField] [Range(0.0f, 0.5f)] float mouseSmoothTime = 0.03f;
 
+    //[SerializeField] GameObject ThirdCamera; //0
+    //[SerializeField] GameObject FirstCamera; //1
+    //private Transform playerCamera = null;
+    public int CameraMode;
+
     float camPitch = 0.0f;
     float velocityY = 0.0f;
     CharacterController controller = null;
@@ -35,6 +40,8 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+
         MouseUpdateLook();
         UpdateMovement();
     }
@@ -67,4 +74,6 @@ public class PlayerController : MonoBehaviour
         Vector3 velocity = (transform.forward * currentDirection.y + transform.right * currentDirection.x) * walkSpeed + Vector3.up*velocityY;
         controller.Move(velocity * Time.deltaTime);
     }
+
+
 }

@@ -17,7 +17,8 @@ public class Throw : MonoBehaviour
 
     public float forceMultiplier = 10;
     public float spawnY = 0f;
-    public GameObject Platform;
+    //public GameObject Platform;
+    public GameObject[] platformOptions;
     private Rigidbody rb;
 
 
@@ -74,8 +75,9 @@ public class Throw : MonoBehaviour
         if (collision.transform.name == "Water")
         {
             Vector3 offsetY = new Vector3(0f, spawnY, 0f);
+            int platformIndex = Random.Range(0, platformOptions.Length);
             //Debug.Log("You collided at " + collision.contacts[0].point + ".");
-            Instantiate(Platform, collision.contacts[0].point + offsetY, Quaternion.identity);
+            Instantiate(platformOptions[platformIndex], collision.contacts[0].point + offsetY, Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
         }
 
 
