@@ -13,13 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-10-06T23:48:35.034-05:00
-  initializedAtString: 2021-10-06T09:23:30.855-05:00
+  lastUpdatedAtString: 2021-10-21T19:41:38.611-05:00
+  initializedAtString: 2021-10-21T09:14:55.877-05:00
   localBranches:
   - name: main
     tracking: origin/main
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
@@ -44,9 +46,15 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - main
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/ylkwok714/Ripple-Demo.git
+        trackingBranch: 
+      - name: main
         remote:
           name: origin
           url: https://github.com/ylkwok714/Ripple-Demo.git

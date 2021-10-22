@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -12,9 +13,6 @@ public class PlayerController : MonoBehaviour
     [SerializeField] [Range(0.0f, 0.5f)] float moveSmoothTime = 0.3f;
     [SerializeField] [Range(0.0f, 0.5f)] float mouseSmoothTime = 0.03f;
 
-    //[SerializeField] GameObject ThirdCamera; //0
-    //[SerializeField] GameObject FirstCamera; //1
-    //private Transform playerCamera = null;
     public int CameraMode;
 
     float camPitch = 0.0f;
@@ -33,7 +31,9 @@ public class PlayerController : MonoBehaviour
         if (lockCursor)
         {
             Cursor.lockState = CursorLockMode.Locked;
-             Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
+            
+             Cursor.visible = false;
         }
     }
 
@@ -41,9 +41,17 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
 
-
+        ReloadLevel();
         MouseUpdateLook();
         UpdateMovement();
+    }
+
+    void ReloadLevel()
+    {
+        if (Input.GetKeyDown(KeyCode.Backspace))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
     }
 
     void MouseUpdateLook()

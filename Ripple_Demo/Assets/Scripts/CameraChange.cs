@@ -6,6 +6,7 @@ public class CameraChange : MonoBehaviour
 {
     public GameObject ThirdCamera; //0
     public GameObject FirstCamera; //1
+    public GameObject Stone;
     public int CameraMode;
 
     // Update is called once per frame
@@ -21,7 +22,7 @@ public class CameraChange : MonoBehaviour
             {
                 CameraMode = 1;
             }
-            Debug.Log(CameraMode);
+            //Debug.Log(CameraMode);
             StartCoroutine(ChangeCameraMode());
 
         }
@@ -40,6 +41,8 @@ public class CameraChange : MonoBehaviour
         {
             ThirdCamera.SetActive(false);
             FirstCamera.SetActive(true);
+           // var stone = Instantiate(Stone, transform.position, transform.rotation);
+
         }
     }
 }
