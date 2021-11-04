@@ -15,11 +15,11 @@ C:/Users/yingy/OneDrive/Documents/GitHub/Ripple-Demo/Ripple_Demo
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-56750
+52567
 Successfully changed project path to: C:/Users/yingy/OneDrive/Documents/GitHub/Ripple-Demo/Ripple_Demo
 C:/Users/yingy/OneDrive/Documents/GitHub/Ripple-Demo/Ripple_Demo
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 8364.12 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 1610.37 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.21f1 (f2d5d3c59f8c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.21f1/Editor/Data/Resources/UnitySubsystems
@@ -31,3 +31,8 @@ Direct3D:
     Vendor:   ATI
     VRAM:     3046 MB
     Driver:   27.20.11044.7
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.21f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56908

@@ -21,10 +21,13 @@ public class Throw : MonoBehaviour
     public GameObject[] platformOptions;
     private Rigidbody rb;
     Queue<Vector3> contactPoints = new Queue<Vector3>();
+    Queue<GameObject> formedPlatforms = new Queue<GameObject>();
     public Camera firstPersonCamera;
     public Transform player;
     public GameObject cameraModeController;
     public GameObject parabolaHolder;
+    public Transform stoneHoldPosition;
+    public GameObject skippingStone;
 
     private float timer = 0;
     //private 
@@ -75,6 +78,15 @@ public class Throw : MonoBehaviour
             float timePassed = Time.time - timer;
             SkipIntensity(timePassed);
             Shoot();
+        }
+        if (Input.GetButtonDown("Camera") && hasCollidedOnce)
+        {
+            GameObject newStone = Instantiate(gameObject);
+            newStone.transform.SetParent(player);
+            newStone.transform.position = stoneHoldPosition.position;
+            hasCollidedOnce = false;
+            //newStone.transform.position = stoneHoldPosition.position;
+            Destroy(gameObject);
         }
     }
 
@@ -170,13 +182,16 @@ public class Throw : MonoBehaviour
             firstPoint = collision.contacts[0].point;
             currentPoint = firstPoint;
             //Debug.Log("You collided at " + collision.contacts[0].point + ".");
-            targetPlatform = Instantiate(platformOptions[platformIndex], collision.contacts[0].point + offsetY, Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
+            //targetPlatform = Instantiate(platformOptions[platformIndex], collision.contacts[0].point + offsetY, Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
+            targetPlatform = Instantiate(platformOptions[platformIndex], collision.contacts[0].point + offsetY, Quaternion.identity);
             //GetComponent<JumpPath>().targetPosition = targetPlatform;
+            formedPlatforms.Enqueue(targetPlatform);
             contactPoints.Enqueue(collision.contacts[0].point);
 
             if(throwCode > 1)
             {
                 contactPoints.Dequeue();
+                formedPlatforms.Dequeue();
                 SpawnPlatforms(throwCode - 1);
                 Destroy(targetPlatform);
             }
@@ -205,7 +220,9 @@ public class Throw : MonoBehaviour
         for (int i = 0; i < numPlatforms; i++)
         {
 
-            Instantiate(platformOptions[platformIndex], furtherPosition * (i + 1), Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
+            //GameObject p = Instantiate(platformOptions[platformIndex], furtherPosition * (i + 1), Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
+            GameObject p = Instantiate(platformOptions[platformIndex], furtherPosition * (i + 1), Quaternion.identity);
+            formedPlatforms.Enqueue(p);
             contactPoints.Enqueue(furtherPosition * (i + 1));
 
             /*

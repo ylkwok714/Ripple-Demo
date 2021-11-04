@@ -113,7 +113,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 4
+  m_Constraints: 0
   m_CollisionDetection: 0
 --- !u!114 &7343115777313085476
 MonoBehaviour:
@@ -142,4 +142,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forceMultiplier: 10
-  Platform: {fileID: 0}
+  spawnY: 0
+  skipSpeed: 3
+  platformOptions:
+  - {fileID: 919132149155446097, guid: ea759ccd9fcba44bdb694fd25c420203, type: 3}
+  - {fileID: 919132149155446097, guid: 33d711351ef9840fbbe6905845920839, type: 3}
+  - {fileID: 919132149155446097, guid: 1e85a044c78034fb782b0976bdb1a671, type: 3}
+  - {fileID: 7875858485025482693, guid: 4b9d65f675435564ab6a27465763119a, type: 3}
+  firstPersonCamera: {fileID: 0}
+  player: {fileID: 0}
+  cameraModeController: {fileID: 0}
+  parabolaHolder: {fileID: 0}
+  stoneHoldPosition: {fileID: 0}
+  skippingStone: {fileID: 0}
