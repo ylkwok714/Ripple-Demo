@@ -15,7 +15,8 @@ public class CharacterJump : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.UpArrow))
         {
-            GetComponent < ParabolaController >().FollowParabola();
+            //GetComponent<ParabolaController>().FollowParabola();
+            //Destroy(GetComponent<ParabolaController>().ParabolaRoot);
         }
     }
 }

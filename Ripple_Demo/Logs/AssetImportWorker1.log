@@ -15,13 +15,19 @@ C:/Users/yingy/OneDrive/Documents/GitHub/Ripple-Demo/Ripple_Demo
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-51514
+56750
 Successfully changed project path to: C:/Users/yingy/OneDrive/Documents/GitHub/Ripple-Demo/Ripple_Demo
 C:/Users/yingy/OneDrive/Documents/GitHub/Ripple-Demo/Ripple_Demo
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 3970.72 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 8364.12 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.21f1 (f2d5d3c59f8c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.21f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/yingy/OneDrive/Documents/GitHub/Ripple-Demo/Ripple_Demo/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 3 Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     3046 MB
+    Driver:   27.20.11044.7

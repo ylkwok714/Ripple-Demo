@@ -23,20 +23,31 @@ public class Throw : MonoBehaviour
     Queue<Vector3> contactPoints = new Queue<Vector3>();
     public Camera firstPersonCamera;
     public Transform player;
+    public GameObject cameraModeController;
+    public GameObject parabolaHolder;
 
     private float timer = 0;
-    public static int throwCode;
+    //private 
 
+    public static int throwCode;
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        //StartStonePosition = transform.position;
+        //contactPoints.Enqueue(player.position);
+        StartStonePosition = transform.position;
         StartStoneRotate = transform.rotation;
+        //player.gameObject.AddComponent<ParabolaController>();
+
+        //player.gameObject.GetComponent<ParabolaController>().ParabolaRoot = null;
+        //player.gameObject.GetComponent<ParabolaController>().Speed = 1.5f;
+
 
     }
 
     void Update()
     {
+        
+
         if (Input.GetMouseButton(0))
         {
             transform.rotation = StartStoneRotate;
@@ -45,21 +56,19 @@ public class Throw : MonoBehaviour
         {
             timer = Time.time;
         }
-        /*
+        
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            if (contactPoints.Count > 0)
-            {
-                for(int i = 0; i < contactPoints.Count; i++)
-                {
-                    ContactPoint cp = contactPoints.Dequeue();
-                    //StartCoroutine(PlayerJumping(cp));
-                    PlayerJumping(cp);
+            //StartCoroutine(PlayerJumpingSequence());
+            //Debug.Log(contactPoints.Count);
+            //for(int i = 0; i < contactPoints.Count; i++)
+            //{
+            //Debug.Log(cpClone.Dequeue());
+            //if(cpClone.Count > 0)
+                PlayerJumpingSequence();
 
-                }
-            }
-
-        }*/
+            //}
+        }
 
         if (Input.GetMouseButtonUp(0))
         {
@@ -72,9 +81,9 @@ public class Throw : MonoBehaviour
     void SkipIntensity(float timeChange)
     {
         throwCode = (int) Mathf.Floor(timeChange);
-        if(throwCode > 3)
+        if(throwCode > 5)
         {
-            throwCode = 3;
+            throwCode = 5;
         }
 
         if(throwCode == 0)
@@ -82,22 +91,53 @@ public class Throw : MonoBehaviour
             throwCode = 1;
         }
     }
-    /*
-    void PlayerJumping(ContactPoint cp)
+    
+    public void PlayerJumpingSequence()
     {
-        //player.transform.position = cp.point;
+        //Queue<Vector3> cpClone = new Queue<Vector3>(contactPoints);
+        //cpClone = new Queue<Vector3>(contactPoints);
+        //contactPoints.Dequeue();
+        //iterate through queue
+        if (contactPoints.Count > 0)
+        {
+            Vector3 pointA = player.transform.position;
+            Vector3 pointC = contactPoints.Dequeue();
 
-        float xPosition = cp.point.x;
-        float zPosition = cp.point.z;
-        //Vector3 offsetY = new Vector3(0f, 1.0f, 0f);
+            Vector3 pointB = (pointA + pointC) / 2;
+            pointB.y += 2.0f;
 
-        //Debug.Log("x, z " + xPosition + ", " + zPosition);
+            parabolaHolder.transform.GetChild(0).position = pointA;
+            parabolaHolder.transform.GetChild(1).position = pointB;
+            parabolaHolder.transform.GetChild(2).position = pointC;
 
-        player.position = new Vector3(cp.point.x, cp.point.y + 1.0f, cp.point.z);
+            //player.transform.position = contactPoints.Dequeue();
+            //yield return new WaitForSeconds(3);
+            //spawn empty object with start point (character current position), mid point(apex), end point(next posiiton)
+            //GameObject paraRoot = new GameObject("paraRoot");
+            //GameObject startPoint = new GameObject("A");
+            //GameObject midPoint = new GameObject("B");
+            //GameObject endPoint = new GameObject("C");
+            //paraRoot.transform.position = player.position;
+            //startPoint.transform.position = pointA;
+            //midPoint.transform.position = pointB;
+            //endPoint.transform.position = pointC;
+            //startPoint.transform.SetParent(paraRoot.transform); 
+            //midPoint.transform.SetParent(paraRoot.transform); 
+            //endPoint.transform.SetParent(paraRoot.transform);
 
-        //Debug.Log(player.position);
+            //player.gameObject.AddComponent<ParabolaController>();
 
-    }*/
+            //player.gameObject.GetComponent<ParabolaController>().ParabolaRoot = paraRoot;
+            //player.gameObject.GetComponent<ParabolaController>().Speed = 1;
+            player.gameObject.GetComponent<ParabolaController>().FollowParabola();
+        }
+        //player animation with parabola
+        //paraRoot.GetComponent<ParabolaController>().Autostart = true;
+        //delete empty game object parent
+        //Destroy(paraRoot);
+
+
+    }
 
     void Shoot()
     {
@@ -136,9 +176,17 @@ public class Throw : MonoBehaviour
 
             if(throwCode > 1)
             {
+                contactPoints.Dequeue();
                 SpawnPlatforms(throwCode - 1);
+                Destroy(targetPlatform);
             }
+
+            //force player to go back to 3rd person camera
+            cameraModeController.GetComponent<CameraChange>().manualChange = true ;
         }
+
+        transform.position = StartStonePosition;
+        rb.constraints = RigidbodyConstraints.FreezePositionY;
 
 
     }
@@ -150,11 +198,17 @@ public class Throw : MonoBehaviour
         Debug.Log(firstDistance);
         Debug.Log(throwCode);
         Vector3 rootPosition = targetPlatform.transform.position;
-        Vector3 furtherPosition = new Vector3(rootPosition.x + firstDistance.x, rootPosition.y, rootPosition.z + firstDistance.z);
+        //Vector3 furtherPosition = new Vector3(rootPosition.x + firstDistance.x, spawnY, rootPosition.z + firstDistance.z);
+        Vector3 furtherPosition = new Vector3(rootPosition.x + firstDistance.x, spawnY, rootPosition.z + firstDistance.z);
         int platformIndex = Random.Range(0, platformOptions.Length);
 
         for (int i = 0; i < numPlatforms; i++)
         {
+
+            Instantiate(platformOptions[platformIndex], furtherPosition * (i + 1), Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
+            contactPoints.Enqueue(furtherPosition * (i + 1));
+
+            /*
             if(i == 0)
             {
                 Instantiate(platformOptions[platformIndex], furtherPosition , Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
@@ -166,8 +220,10 @@ public class Throw : MonoBehaviour
                 Instantiate(platformOptions[platformIndex], furtherPosition*(i+1), Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
                 contactPoints.Enqueue(furtherPosition * (i+1));
 
-            }
+            }*/
         }
+
+
     }
 
 }

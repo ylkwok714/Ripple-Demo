@@ -320,16 +320,17 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/LowPolyWater_Pack/Scripts/LowPolyWater.cs"
 "Assets/Scripts/CameraChange.cs"
-"Assets/Scripts/CameraStoneSkip.cs"
 "Assets/Scripts/CharacterJump.cs"
 "Assets/Scripts/FirstPersonCamera.cs"
 "Assets/Scripts/Float.cs"
 "Assets/Scripts/ParabolaController.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/PlayerPath.cs"
 "Assets/Scripts/RotateSky.cs"
 "Assets/Scripts/StonePath.cs"
 "Assets/Scripts/ThirdPersonCamera.cs"
 "Assets/Scripts/Throw.cs"
+"Assets/Scripts/TriggerAnimation.cs"
 -langversion:8.0
 
 /deterministic

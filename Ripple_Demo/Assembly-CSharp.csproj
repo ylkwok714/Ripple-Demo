@@ -59,12 +59,13 @@
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\CharacterJump.cs" />
     <Compile Include="Assets\Scripts\FirstPersonCamera.cs" />
-    <Compile Include="Assets\Scripts\CameraStoneSkip.cs" />
+    <Compile Include="Assets\Scripts\TriggerAnimation.cs" />
     <Compile Include="Assets\Scripts\Throw.cs" />
     <Compile Include="Assets\Scripts\RotateSky.cs" />
     <Compile Include="Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs" />
     <Compile Include="Assets\Scripts\ParabolaController.cs" />
     <Compile Include="Assets\Scripts\StonePath.cs" />
+    <Compile Include="Assets\Scripts\PlayerPath.cs" />
     <Compile Include="Assets\Scripts\CameraChange.cs" />
     <Compile Include="Assets\Scripts\Float.cs" />
     <Compile Include="Assets\Scripts\ThirdPersonCamera.cs" />
