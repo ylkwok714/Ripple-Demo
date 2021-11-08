@@ -1,20 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TriggerAnimation : MonoBehaviour
 {
-    public Animator cutscene;
+    public int cutsceneNumber;
     public GameObject triggerParameter;
     bool hasVisited = false;
     
 
-    private void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter(Collider collision)
     {
-        if (!hasVisited && collision.transform.name == triggerParameter.name)
+        if (!hasVisited )
         {
             hasVisited = true;
-            cutscene.SetBool(triggerParameter.name, true);
+            SceneManager.LoadScene(cutsceneNumber);
         }
     }
 }

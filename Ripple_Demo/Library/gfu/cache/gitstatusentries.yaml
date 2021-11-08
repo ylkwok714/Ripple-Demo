@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-04T03:36:56.518-05:00
-  initializedAtString: 2021-11-04T01:25:12.329-05:00
+  lastUpdatedAtString: 2021-11-08T04:00:49.328-06:00
+  initializedAtString: 2021-11-07T20:58:37.119-06:00
   entries:
   - path: Ripple_Demo\.vs\Ripple_Demo\v16\.suo
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\.vs\Ripple_Demo\v16\.suo
@@ -22,6 +22,140 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Ripple_Demo\Assets\Animations\CharacterAnimations.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\CharacterAnimations.meta
+    projectPath: Assets\Animations\CharacterAnimations.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\CharacterAnimations\CharacterAnimatorController.controller
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\CharacterAnimations\CharacterAnimatorController.controller
+    projectPath: Assets\Animations\CharacterAnimations\CharacterAnimatorController.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\CharacterAnimations\CharacterAnimatorController.controller.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\CharacterAnimations\CharacterAnimatorController.controller.meta
+    projectPath: Assets\Animations\CharacterAnimations\CharacterAnimatorController.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\CharacterAnimations\CharacterIdleAnimation.anim
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\CharacterAnimations\CharacterIdleAnimation.anim
+    projectPath: Assets\Animations\CharacterAnimations\CharacterIdleAnimation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\CharacterAnimations\CharacterIdleAnimation.anim.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\CharacterAnimations\CharacterIdleAnimation.anim.meta
+    projectPath: Assets\Animations\CharacterAnimations\CharacterIdleAnimation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\CharacterAnimations\GRANDFIN___RESTANIMATION(FINAL).fbx
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\CharacterAnimations\GRANDFIN___RESTANIMATION(FINAL).fbx
+    projectPath: Assets\Animations\CharacterAnimations\GRANDFIN___RESTANIMATION(FINAL).fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\CharacterAnimations\GRANDFIN___RESTANIMATION(FINAL).fbx.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\CharacterAnimations\GRANDFIN___RESTANIMATION(FINAL).fbx.meta
+    projectPath: Assets\Animations\CharacterAnimations\GRANDFIN___RESTANIMATION(FINAL).fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\CharacterAnimatorController.controller
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\CharacterAnimatorController.controller
+    projectPath: Assets\Animations\CharacterAnimatorController.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Assets\Animations\CharacterAnimatorController.controller.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\CharacterAnimatorController.controller.meta
+    projectPath: Assets\Animations\CharacterAnimatorController.controller.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations.meta
+    projectPath: Assets\Animations\EnvironmentAnimations.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations\5-WhaleFINAL.fbx
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations\5-WhaleFINAL.fbx
+    projectPath: Assets\Animations\EnvironmentAnimations\5-WhaleFINAL.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations\5-WhaleFINAL.fbx.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations\5-WhaleFINAL.fbx.meta
+    projectPath: Assets\Animations\EnvironmentAnimations\5-WhaleFINAL.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations\GFIN4_PLATFORM _SHELL_STAR.fbx
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations\GFIN4_PLATFORM
+      _SHELL_STAR.fbx
+    projectPath: Assets\Animations\EnvironmentAnimations\GFIN4_PLATFORM _SHELL_STAR.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations\GFIN4_PLATFORM _SHELL_STAR.fbx.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations\GFIN4_PLATFORM
+      _SHELL_STAR.fbx.meta
+    projectPath: Assets\Animations\EnvironmentAnimations\GFIN4_PLATFORM _SHELL_STAR.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations\PlatformAnimatorController.controller
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations\PlatformAnimatorController.controller
+    projectPath: Assets\Animations\EnvironmentAnimations\PlatformAnimatorController.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations\PlatformAnimatorController.controller.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations\PlatformAnimatorController.controller.meta
+    projectPath: Assets\Animations\EnvironmentAnimations\PlatformAnimatorController.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations\RockRippleAnimation.anim
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations\RockRippleAnimation.anim
+    projectPath: Assets\Animations\EnvironmentAnimations\RockRippleAnimation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations\RockRippleAnimation.anim.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations\RockRippleAnimation.anim.meta
+    projectPath: Assets\Animations\EnvironmentAnimations\RockRippleAnimation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations\WhaleAnimation.anim
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations\WhaleAnimation.anim
+    projectPath: Assets\Animations\EnvironmentAnimations\WhaleAnimation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations\WhaleAnimation.anim.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations\WhaleAnimation.anim.meta
+    projectPath: Assets\Animations\EnvironmentAnimations\WhaleAnimation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations\WhaleAnimator.controller
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations\WhaleAnimator.controller
+    projectPath: Assets\Animations\EnvironmentAnimations\WhaleAnimator.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Animations\EnvironmentAnimations\WhaleAnimator.controller.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Animations\EnvironmentAnimations\WhaleAnimator.controller.meta
+    projectPath: Assets\Animations\EnvironmentAnimations\WhaleAnimator.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Ripple_Demo\Assets\Low Poly Water\Plane Meshes\Ocean10x10W100H100.asset
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Low
       Poly Water\Plane Meshes\Ocean10x10W100H100.asset
@@ -29,690 +163,163 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Ripple_Demo\Assets\Prefabs\DemoStone.prefab
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\DemoStone.prefab
-    projectPath: Assets\Prefabs\DemoStone.prefab
+  - path: Ripple_Demo\Assets\Low Poly Water\Plane Meshes\Plane10x10W100H100.asset
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Low
+      Poly Water\Plane Meshes\Plane10x10W100H100.asset
+    projectPath: Assets\Low Poly Water\Plane Meshes\Plane10x10W100H100.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Low Poly Water\Plane Meshes\Plane10x10W100H100.asset.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Low
+      Poly Water\Plane Meshes\Plane10x10W100H100.asset.meta
+    projectPath: Assets\Low Poly Water\Plane Meshes\Plane10x10W100H100.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Prefabs\CutsceneTrigger.prefab
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\CutsceneTrigger.prefab
+    projectPath: Assets\Prefabs\CutsceneTrigger.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures.meta
-    projectPath: Assets\Prefabs\my latest models and textures.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\.DS_Store
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\.DS_Store
-    projectPath: Assets\Prefabs\my latest models and textures\.DS_Store
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\cloud.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\cloud.obj
-    projectPath: Assets\Prefabs\my latest models and textures\cloud.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\cloud.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\cloud.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\cloud.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\cloudtexture.png
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\cloudtexture.png
-    projectPath: Assets\Prefabs\my latest models and textures\cloudtexture.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\cloudtexture.png.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\cloudtexture.png.meta
-    projectPath: Assets\Prefabs\my latest models and textures\cloudtexture.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\Materials.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\Materials.meta
-    projectPath: Assets\Prefabs\my latest models and textures\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\Materials\moundtexture.mat
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\Materials\moundtexture.mat
-    projectPath: Assets\Prefabs\my latest models and textures\Materials\moundtexture.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\Materials\moundtexture.mat.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\Materials\moundtexture.mat.meta
-    projectPath: Assets\Prefabs\my latest models and textures\Materials\moundtexture.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\Materials\moundwithshelltexture.mat
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\Materials\moundwithshelltexture.mat
-    projectPath: Assets\Prefabs\my latest models and textures\Materials\moundwithshelltexture.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\Materials\moundwithshelltexture.mat.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\Materials\moundwithshelltexture.mat.meta
-    projectPath: Assets\Prefabs\my latest models and textures\Materials\moundwithshelltexture.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\Materials\shelltexture.mat
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\Materials\shelltexture.mat
-    projectPath: Assets\Prefabs\my latest models and textures\Materials\shelltexture.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\Materials\shelltexture.mat.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\Materials\shelltexture.mat.meta
-    projectPath: Assets\Prefabs\my latest models and textures\Materials\shelltexture.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\Materials\spiralshell.mat
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\Materials\spiralshell.mat
-    projectPath: Assets\Prefabs\my latest models and textures\Materials\spiralshell.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\Materials\spiralshell.mat.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\Materials\spiralshell.mat.meta
-    projectPath: Assets\Prefabs\my latest models and textures\Materials\spiralshell.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound.obj
-    projectPath: Assets\Prefabs\my latest models and textures\mound.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\mound.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2.obj
-    projectPath: Assets\Prefabs\my latest models and textures\mound2.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\mound2.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2withshell2.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2withshell2.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\mound2withshell2.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2withshell2.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2withshell2.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\mound2withshell2.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2withshell2.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2withshell2.obj
-    projectPath: Assets\Prefabs\my latest models and textures\mound2withshell2.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2withshell2.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2withshell2.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\mound2withshell2.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2withshellwithseaweed.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2withshellwithseaweed.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\mound2withshellwithseaweed.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2withshellwithseaweed.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2withshellwithseaweed.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\mound2withshellwithseaweed.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2withshellwithseaweed.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2withshellwithseaweed.obj
-    projectPath: Assets\Prefabs\my latest models and textures\mound2withshellwithseaweed.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2withshellwithseaweed.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2withshellwithseaweed.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\mound2withshellwithseaweed.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2withshellwithstarfish.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2withshellwithstarfish.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\mound2withshellwithstarfish.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2withshellwithstarfish.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2withshellwithstarfish.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\mound2withshellwithstarfish.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2withshellwithstarfish.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2withshellwithstarfish.obj
-    projectPath: Assets\Prefabs\my latest models and textures\mound2withshellwithstarfish.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\mound2withshellwithstarfish.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\mound2withshellwithstarfish.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\mound2withshellwithstarfish.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundtexture.png
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundtexture.png
-    projectPath: Assets\Prefabs\my latest models and textures\moundtexture.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundtexture.png.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundtexture.png.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundtexture.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshell2withseaweed.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshell2withseaweed.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshell2withseaweed.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshell2withseaweed.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshell2withseaweed.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshell2withseaweed.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshell2withseaweed.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshell2withseaweed.obj
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshell2withseaweed.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshell2withseaweed.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshell2withseaweed.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshell2withseaweed.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshell2withshell1.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshell2withshell1.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshell2withshell1.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshell2withshell1.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshell2withshell1.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshell2withshell1.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshell2withshell1.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshell2withshell1.obj
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshell2withshell1.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshell2withshell1.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshell2withshell1.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshell2withshell1.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshell2withshell2.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshell2withshell2.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshell2withshell2.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshell2withshell2.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshell2withshell2.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshell2withshell2.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshell2withshell2.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshell2withshell2.obj
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshell2withshell2.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshell2withshell2.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshell2withshell2.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshell2withshell2.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellandstarfish.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellandstarfish.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellandstarfish.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellandstarfish.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellandstarfish.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellandstarfish.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellandstarfish.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellandstarfish.obj
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellandstarfish.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellandstarfish.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellandstarfish.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellandstarfish.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshelltexture.png
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshelltexture.png
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshelltexture.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshelltexture.png.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshelltexture.png.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshelltexture.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithseaweed.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithseaweed.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithseaweed.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithseaweed.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithseaweed.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithseaweed.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithseaweed.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithseaweed.obj
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithseaweed.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithseaweed.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithseaweed.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithseaweed.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithshell.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithshell.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithshell.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithshell.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithshell.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithshell.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithshell.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithshell.obj
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithshell.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithshell.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithshell.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithshell.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithshell1.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithshell1.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithshell1.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithshell1.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithshell1.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithshell1.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithshell1.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithshell1.obj
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithshell1.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithshell1.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithshell1.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithshell1.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithshell2.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithshell2.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithshell2.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithshell2.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithshell2.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithshell2.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithshell2.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithshell2.obj
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithshell2.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithshell2.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithshell2.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithshell2.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithstarfish.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithstarfish.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithstarfish.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithstarfish.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithstarfish.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithstarfish.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithstarfish.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithstarfish.obj
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithstarfish.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithstarfish.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithstarfish.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithstarfish.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithstartfish.mtl
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithstartfish.mtl
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithstartfish.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithstartfish.mtl.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithstartfish.mtl.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithstartfish.mtl.meta
+  - path: Ripple_Demo\Assets\Prefabs\LandingPlatforms.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\LandingPlatforms.meta
+    projectPath: Assets\Prefabs\LandingPlatforms.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithstartfish.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithstartfish.obj
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithstartfish.obj
+  - path: Ripple_Demo\Assets\Prefabs\LandingPlatforms\Beach platform2.prefab
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\LandingPlatforms\Beach
+      platform2.prefab
+    projectPath: Assets\Prefabs\LandingPlatforms\Beach platform2.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\moundwithshellwithstartfish.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\moundwithshellwithstartfish.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\moundwithshellwithstartfish.obj.meta
+  - path: Ripple_Demo\Assets\Prefabs\LandingPlatforms\Beach platform2.prefab.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\LandingPlatforms\Beach
+      platform2.prefab.meta
+    projectPath: Assets\Prefabs\LandingPlatforms\Beach platform2.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\seaweed.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\seaweed.obj
-    projectPath: Assets\Prefabs\my latest models and textures\seaweed.obj
+  - path: Ripple_Demo\Assets\Prefabs\LandingPlatforms\BeachPlatform1Match.prefab
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\LandingPlatforms\BeachPlatform1Match.prefab
+    projectPath: Assets\Prefabs\LandingPlatforms\BeachPlatform1Match.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\seaweed.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\seaweed.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\seaweed.obj.meta
+  - path: Ripple_Demo\Assets\Prefabs\LandingPlatforms\BeachPlatform1Match.prefab.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\LandingPlatforms\BeachPlatform1Match.prefab.meta
+    projectPath: Assets\Prefabs\LandingPlatforms\BeachPlatform1Match.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\seaweedtexture.png
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\seaweedtexture.png
-    projectPath: Assets\Prefabs\my latest models and textures\seaweedtexture.png
+  - path: Ripple_Demo\Assets\Prefabs\LandingPlatforms\BeachPlatform3.prefab
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\LandingPlatforms\BeachPlatform3.prefab
+    projectPath: Assets\Prefabs\LandingPlatforms\BeachPlatform3.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\seaweedtexture.png.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\seaweedtexture.png.meta
-    projectPath: Assets\Prefabs\my latest models and textures\seaweedtexture.png.meta
+  - path: Ripple_Demo\Assets\Prefabs\LandingPlatforms\BeachPlatform3.prefab.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\LandingPlatforms\BeachPlatform3.prefab.meta
+    projectPath: Assets\Prefabs\LandingPlatforms\BeachPlatform3.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\shell.obj
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\shell.obj
-    projectPath: Assets\Prefabs\my latest models and textures\shell.obj
+  - path: Ripple_Demo\Assets\Prefabs\LandingPlatforms\GFIN4_PLATFORM _SHELL_STAR.prefab
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\LandingPlatforms\GFIN4_PLATFORM
+      _SHELL_STAR.prefab
+    projectPath: Assets\Prefabs\LandingPlatforms\GFIN4_PLATFORM _SHELL_STAR.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\shell.obj.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\shell.obj.meta
-    projectPath: Assets\Prefabs\my latest models and textures\shell.obj.meta
+  - path: Ripple_Demo\Assets\Prefabs\LandingPlatforms\GFIN4_PLATFORM _SHELL_STAR.prefab.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\LandingPlatforms\GFIN4_PLATFORM
+      _SHELL_STAR.prefab.meta
+    projectPath: Assets\Prefabs\LandingPlatforms\GFIN4_PLATFORM _SHELL_STAR.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\shelltexture.png
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\shelltexture.png
-    projectPath: Assets\Prefabs\my latest models and textures\shelltexture.png
+  - path: Ripple_Demo\Assets\Prefabs\LandingPlatforms\mound.prefab
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\LandingPlatforms\mound.prefab
+    projectPath: Assets\Prefabs\LandingPlatforms\mound.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\shelltexture.png.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\shelltexture.png.meta
-    projectPath: Assets\Prefabs\my latest models and textures\shelltexture.png.meta
+  - path: Ripple_Demo\Assets\Prefabs\LandingPlatforms\mound.prefab.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\LandingPlatforms\mound.prefab.meta
+    projectPath: Assets\Prefabs\LandingPlatforms\mound.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\spiralshell.png
+  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\Materials\seaweedtexture.mat
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\spiralshell.png
-    projectPath: Assets\Prefabs\my latest models and textures\spiralshell.png
+      latest models and textures\Materials\seaweedtexture.mat
+    projectPath: Assets\Prefabs\my latest models and textures\Materials\seaweedtexture.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\spiralshell.png.meta
+  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\Materials\seaweedtexture.mat.meta
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\spiralshell.png.meta
-    projectPath: Assets\Prefabs\my latest models and textures\spiralshell.png.meta
+      latest models and textures\Materials\seaweedtexture.mat.meta
+    projectPath: Assets\Prefabs\my latest models and textures\Materials\seaweedtexture.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\starfish_lighter.png
+  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\MoundSeaweedCenterPivotTest.obj
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\starfish_lighter.png
-    projectPath: Assets\Prefabs\my latest models and textures\starfish_lighter.png
+      latest models and textures\MoundSeaweedCenterPivotTest.obj
+    projectPath: Assets\Prefabs\my latest models and textures\MoundSeaweedCenterPivotTest.obj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\starfish_lighter.png.meta
+  - path: Ripple_Demo\Assets\Prefabs\my latest models and textures\MoundSeaweedCenterPivotTest.obj.meta
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\my
-      latest models and textures\starfish_lighter.png.meta
-    projectPath: Assets\Prefabs\my latest models and textures\starfish_lighter.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound.prefab
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound.prefab
-    projectPath: Assets\Prefabs\OceanPlatforms\mound.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound.prefab.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound.prefab.meta
-    projectPath: Assets\Prefabs\OceanPlatforms\mound.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound2withshell2.prefab
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound2withshell2.prefab
-    projectPath: Assets\Prefabs\OceanPlatforms\mound2withshell2.prefab
+      latest models and textures\MoundSeaweedCenterPivotTest.obj.meta
+    projectPath: Assets\Prefabs\my latest models and textures\MoundSeaweedCenterPivotTest.obj.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound2withshell2.prefab.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound2withshell2.prefab.meta
-    projectPath: Assets\Prefabs\OceanPlatforms\mound2withshell2.prefab.meta
+  - path: Ripple_Demo\Assets\Prefabs\Ocean.prefab
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\Ocean.prefab
+    projectPath: Assets\Prefabs\Ocean.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound2withshellwithseaweed.prefab
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound2withshellwithseaweed.prefab
-    projectPath: Assets\Prefabs\OceanPlatforms\mound2withshellwithseaweed.prefab
+  - path: Ripple_Demo\Assets\Prefabs\Ocean.prefab.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\Ocean.prefab.meta
+    projectPath: Assets\Prefabs\Ocean.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound2withshellwithseaweed.prefab.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound2withshellwithseaweed.prefab.meta
-    projectPath: Assets\Prefabs\OceanPlatforms\mound2withshellwithseaweed.prefab.meta
+  - path: Ripple_Demo\Assets\Prefabs\SkippingStone.prefab
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\SkippingStone.prefab
+    projectPath: Assets\Prefabs\SkippingStone.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound2withshellwithstarfish.prefab
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound2withshellwithstarfish.prefab
-    projectPath: Assets\Prefabs\OceanPlatforms\mound2withshellwithstarfish.prefab
+  - path: Ripple_Demo\Assets\Prefabs\SkippingStone.prefab.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\SkippingStone.prefab.meta
+    projectPath: Assets\Prefabs\SkippingStone.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound2withshellwithstarfish.prefab.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\OceanPlatforms\mound2withshellwithstarfish.prefab.meta
-    projectPath: Assets\Prefabs\OceanPlatforms\mound2withshellwithstarfish.prefab.meta
+  - path: Ripple_Demo\Assets\Prefabs\Water.prefab
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\Water.prefab
+    projectPath: Assets\Prefabs\Water.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\OceanPlatforms\moundwithshell2withshell1.prefab
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\OceanPlatforms\moundwithshell2withshell1.prefab
-    projectPath: Assets\Prefabs\OceanPlatforms\moundwithshell2withshell1.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\OceanPlatforms\moundwithshell2withshell1.prefab.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\OceanPlatforms\moundwithshell2withshell1.prefab.meta
-    projectPath: Assets\Prefabs\OceanPlatforms\moundwithshell2withshell1.prefab.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Assets\Prefabs\Water.prefab.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\Water.prefab.meta
+    projectPath: Assets\Prefabs\Water.prefab.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\OceanPlatforms\moundwithshellwithshell1.prefab
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\OceanPlatforms\moundwithshellwithshell1.prefab
-    projectPath: Assets\Prefabs\OceanPlatforms\moundwithshellwithshell1.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Assets\Prefabs\OceanPlatforms\moundwithshellwithshell1.prefab.meta
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Prefabs\OceanPlatforms\moundwithshellwithshell1.prefab.meta
-    projectPath: Assets\Prefabs\OceanPlatforms\moundwithshellwithshell1.prefab.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Assets\Scenes\RippleOceanLevel.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Scenes\RippleOceanLevel.meta
+    projectPath: Assets\Scenes\RippleOceanLevel.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -722,9 +329,57 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Ripple_Demo\Assets\Scenes\RippleOceanLevel\LightingData.asset
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Scenes\RippleOceanLevel\LightingData.asset
+    projectPath: Assets\Scenes\RippleOceanLevel\LightingData.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Scenes\RippleOceanLevel\LightingData.asset.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Scenes\RippleOceanLevel\LightingData.asset.meta
+    projectPath: Assets\Scenes\RippleOceanLevel\LightingData.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Scenes\RippleOceanLevel\ReflectionProbe-0.exr
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Scenes\RippleOceanLevel\ReflectionProbe-0.exr
+    projectPath: Assets\Scenes\RippleOceanLevel\ReflectionProbe-0.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Scenes\RippleOceanLevel\ReflectionProbe-0.exr.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Scenes\RippleOceanLevel\ReflectionProbe-0.exr.meta
+    projectPath: Assets\Scenes\RippleOceanLevel\ReflectionProbe-0.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Scenes\WhaleCutscene.unity
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Scenes\WhaleCutscene.unity
+    projectPath: Assets\Scenes\WhaleCutscene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Scenes\WhaleCutscene.unity.meta
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Scenes\WhaleCutscene.unity.meta
+    projectPath: Assets\Scenes\WhaleCutscene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Assets\Scripts\StonePath.cs
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Scripts\StonePath.cs
+    projectPath: Assets\Scripts\StonePath.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Ripple_Demo\Assets\Scripts\Throw.cs
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Scripts\Throw.cs
     projectPath: Assets\Scripts\Throw.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ripple_Demo\Assets\Scripts\TriggerAnimation.cs
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Assets\Scripts\TriggerAnimation.cs
+    projectPath: Assets\Scripts\TriggerAnimation.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -741,39 +396,75 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Ripple_Demo\Library\Artifacts\00\00553116f69a44d83eac7efe6bb84f7f
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\00\00553116f69a44d83eac7efe6bb84f7f
-    projectPath: Library\Artifacts\00\00553116f69a44d83eac7efe6bb84f7f
+  - path: Ripple_Demo\Library\Artifacts\01\01a14c49625fdcabd0aa00f408b298f9
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\01\01a14c49625fdcabd0aa00f408b298f9
+    projectPath: Library\Artifacts\01\01a14c49625fdcabd0aa00f408b298f9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\00\00f4b4c799e607b9bb176509d9f52ed7
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\00\00f4b4c799e607b9bb176509d9f52ed7
-    projectPath: Library\Artifacts\00\00f4b4c799e607b9bb176509d9f52ed7
+  - path: Ripple_Demo\Library\Artifacts\01\01c99427a91beda0efef24c1ae3db75a
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\01\01c99427a91beda0efef24c1ae3db75a
+    projectPath: Library\Artifacts\01\01c99427a91beda0efef24c1ae3db75a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\04\0402beecfa06fff952390d223c0d1636
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\04\0402beecfa06fff952390d223c0d1636
-    projectPath: Library\Artifacts\04\0402beecfa06fff952390d223c0d1636
+  - path: Ripple_Demo\Library\Artifacts\03\038acdcfa52b8a4c272a74d9212cacf3
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\03\038acdcfa52b8a4c272a74d9212cacf3
+    projectPath: Library\Artifacts\03\038acdcfa52b8a4c272a74d9212cacf3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\06\069e2015a1106307b54dc1759c70ff8c
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\06\069e2015a1106307b54dc1759c70ff8c
-    projectPath: Library\Artifacts\06\069e2015a1106307b54dc1759c70ff8c
+  - path: Ripple_Demo\Library\Artifacts\05\059a0180c7bbcd47842f42862a06e084
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\05\059a0180c7bbcd47842f42862a06e084
+    projectPath: Library\Artifacts\05\059a0180c7bbcd47842f42862a06e084
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\07\075327755ff6e48205f5e952c703d4f4
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\07\075327755ff6e48205f5e952c703d4f4
+    projectPath: Library\Artifacts\07\075327755ff6e48205f5e952c703d4f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\08\08b53d47500cf508ad4e9332b08f615b
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\08\08b53d47500cf508ad4e9332b08f615b
+    projectPath: Library\Artifacts\08\08b53d47500cf508ad4e9332b08f615b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\0a\0aced140350f598c41c0d4216150fd15
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\0a\0aced140350f598c41c0d4216150fd15
+    projectPath: Library\Artifacts\0a\0aced140350f598c41c0d4216150fd15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\0c\0cef7b4ef68c2e92108e474d204d2e65
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\0c\0cef7b4ef68c2e92108e474d204d2e65
+    projectPath: Library\Artifacts\0c\0cef7b4ef68c2e92108e474d204d2e65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\0d\0dfd8a5b97e75f5b1cc26a9dea478b3e
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\0d\0dfd8a5b97e75f5b1cc26a9dea478b3e
+    projectPath: Library\Artifacts\0d\0dfd8a5b97e75f5b1cc26a9dea478b3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\0e\0e0150f59ea10ce344ef00825ad97d0d
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\0e\0e0150f59ea10ce344ef00825ad97d0d
+    projectPath: Library\Artifacts\0e\0e0150f59ea10ce344ef00825ad97d0d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\09\0969e10374f52637a36c9c10edc6841d
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\09\0969e10374f52637a36c9c10edc6841d
-    projectPath: Library\Artifacts\09\0969e10374f52637a36c9c10edc6841d
+  - path: Ripple_Demo\Library\Artifacts\13\1330d354d89576eeef5beb2df79cc64b
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\13\1330d354d89576eeef5beb2df79cc64b
+    projectPath: Library\Artifacts\13\1330d354d89576eeef5beb2df79cc64b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\11\11dc3e159ce1e32a40898a1789bcb92f
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\11\11dc3e159ce1e32a40898a1789bcb92f
-    projectPath: Library\Artifacts\11\11dc3e159ce1e32a40898a1789bcb92f
+  - path: Ripple_Demo\Library\Artifacts\13\13a83653bc5968034d2946a46ec91a04
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\13\13a83653bc5968034d2946a46ec91a04
+    projectPath: Library\Artifacts\13\13a83653bc5968034d2946a46ec91a04
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -781,41 +472,53 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\14\14d268653927f8a03b226f397c0c493e
     projectPath: Library\Artifacts\14\14d268653927f8a03b226f397c0c493e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\15\1553615078c85751b2b736bb566f234e
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\15\1553615078c85751b2b736bb566f234e
-    projectPath: Library\Artifacts\15\1553615078c85751b2b736bb566f234e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\19\19efaca2af4b70ce72c01dc760af4f99
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\19\19efaca2af4b70ce72c01dc760af4f99
-    projectPath: Library\Artifacts\19\19efaca2af4b70ce72c01dc760af4f99
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\1b\1b19fdb38203da5d121b25fa8a6d9695
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\1b\1b19fdb38203da5d121b25fa8a6d9695
-    projectPath: Library\Artifacts\1b\1b19fdb38203da5d121b25fa8a6d9695
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\1d\1d3b4a0733ef313bcb709b4e7bc32cc7
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\1d\1d3b4a0733ef313bcb709b4e7bc32cc7
-    projectPath: Library\Artifacts\1d\1d3b4a0733ef313bcb709b4e7bc32cc7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\1e\1e7e2d4a2fadc74801a395a32c961294
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\1e\1e7e2d4a2fadc74801a395a32c961294
-    projectPath: Library\Artifacts\1e\1e7e2d4a2fadc74801a395a32c961294
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\18\1841e4d3d964fbe8a04c10d3756abd9c
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\18\1841e4d3d964fbe8a04c10d3756abd9c
+    projectPath: Library\Artifacts\18\1841e4d3d964fbe8a04c10d3756abd9c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\18\1899d3c3a4fd716f9abe1837c45058d2
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\18\1899d3c3a4fd716f9abe1837c45058d2
+    projectPath: Library\Artifacts\18\1899d3c3a4fd716f9abe1837c45058d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\1a\1a421f66507a8dd598e67c2cd56e2e6a
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\1a\1a421f66507a8dd598e67c2cd56e2e6a
+    projectPath: Library\Artifacts\1a\1a421f66507a8dd598e67c2cd56e2e6a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\1a\1ab439b1bef366d51ed826de3db36310
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\1a\1ab439b1bef366d51ed826de3db36310
+    projectPath: Library\Artifacts\1a\1ab439b1bef366d51ed826de3db36310
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\1c\1c1a484d9d151f165751e50832716e08
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\1c\1c1a484d9d151f165751e50832716e08
+    projectPath: Library\Artifacts\1c\1c1a484d9d151f165751e50832716e08
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\1e\1e8aa9a599776fa946774a8b95d0c42b
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\1e\1e8aa9a599776fa946774a8b95d0c42b
+    projectPath: Library\Artifacts\1e\1e8aa9a599776fa946774a8b95d0c42b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Ripple_Demo\Library\Artifacts\1f\1fa5fbefadc374847b972faf495299ae
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\1f\1fa5fbefadc374847b972faf495299ae
     projectPath: Library\Artifacts\1f\1fa5fbefadc374847b972faf495299ae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\1f\1ff7fc4fea4f870165d1558d3cfc6450
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\1f\1ff7fc4fea4f870165d1558d3cfc6450
+    projectPath: Library\Artifacts\1f\1ff7fc4fea4f870165d1558d3cfc6450
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -823,29 +526,23 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\21\21b7444209f0c5e2746c3f1d112b6f8c
     projectPath: Library\Artifacts\21\21b7444209f0c5e2746c3f1d112b6f8c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\22\22a15d95b691f20f94410a572585838c
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\22\22a15d95b691f20f94410a572585838c
-    projectPath: Library\Artifacts\22\22a15d95b691f20f94410a572585838c
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\23\235444fe7b597beaa8e95333221fe50f
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\23\235444fe7b597beaa8e95333221fe50f
+    projectPath: Library\Artifacts\23\235444fe7b597beaa8e95333221fe50f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\24\24e0ab4c0677a6cdb5b3d5e83c48ef38
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\24\24e0ab4c0677a6cdb5b3d5e83c48ef38
-    projectPath: Library\Artifacts\24\24e0ab4c0677a6cdb5b3d5e83c48ef38
+  - path: Ripple_Demo\Library\Artifacts\23\23bbcc63ea4c6b2f3b0d08ccb3540b41
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\23\23bbcc63ea4c6b2f3b0d08ccb3540b41
+    projectPath: Library\Artifacts\23\23bbcc63ea4c6b2f3b0d08ccb3540b41
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\25\252b386080870e9a5e3917e1ff641fb0
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\25\252b386080870e9a5e3917e1ff641fb0
-    projectPath: Library\Artifacts\25\252b386080870e9a5e3917e1ff641fb0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\2a\2a78168f9cd6e8bca9bdc745c26e11ec
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\2a\2a78168f9cd6e8bca9bdc745c26e11ec
-    projectPath: Library\Artifacts\2a\2a78168f9cd6e8bca9bdc745c26e11ec
+  - path: Ripple_Demo\Library\Artifacts\28\281b5178878d7721c12ffb2014ccfcb8
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\28\281b5178878d7721c12ffb2014ccfcb8
+    projectPath: Library\Artifacts\28\281b5178878d7721c12ffb2014ccfcb8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -853,35 +550,41 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\2b\2b48868d2b10bd8444e2fbb6dbf745ee
     projectPath: Library\Artifacts\2b\2b48868d2b10bd8444e2fbb6dbf745ee
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\2e\2e4f81741ffc3052eab48d1dc757b95b
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\2e\2e4f81741ffc3052eab48d1dc757b95b
-    projectPath: Library\Artifacts\2e\2e4f81741ffc3052eab48d1dc757b95b
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\2b\2b7afc37b8a51d69b1bc142d75a1a53b
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\2b\2b7afc37b8a51d69b1bc142d75a1a53b
+    projectPath: Library\Artifacts\2b\2b7afc37b8a51d69b1bc142d75a1a53b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\30\30540c58f19e4a75da14a34b61562d6d
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\30\30540c58f19e4a75da14a34b61562d6d
-    projectPath: Library\Artifacts\30\30540c58f19e4a75da14a34b61562d6d
+  - path: Ripple_Demo\Library\Artifacts\2c\2c1ea47bd2a0ea1fce9ccac63b8fdc42
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\2c\2c1ea47bd2a0ea1fce9ccac63b8fdc42
+    projectPath: Library\Artifacts\2c\2c1ea47bd2a0ea1fce9ccac63b8fdc42
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\30\3088a449daa248ee470eafc0824bcd90
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\30\3088a449daa248ee470eafc0824bcd90
-    projectPath: Library\Artifacts\30\3088a449daa248ee470eafc0824bcd90
+  - path: Ripple_Demo\Library\Artifacts\2c\2c7d3bb1157f91692936a7d7ef97b270
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\2c\2c7d3bb1157f91692936a7d7ef97b270
+    projectPath: Library\Artifacts\2c\2c7d3bb1157f91692936a7d7ef97b270
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\31\311f667310779cf3fe47fe8c6b404d37
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\31\311f667310779cf3fe47fe8c6b404d37
-    projectPath: Library\Artifacts\31\311f667310779cf3fe47fe8c6b404d37
+  - path: Ripple_Demo\Library\Artifacts\2e\2e744f0ea2e86650eecfd7270debb1c3
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\2e\2e744f0ea2e86650eecfd7270debb1c3
+    projectPath: Library\Artifacts\2e\2e744f0ea2e86650eecfd7270debb1c3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\32\3270b765c4597c0146cbc2640a5911b3
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\32\3270b765c4597c0146cbc2640a5911b3
-    projectPath: Library\Artifacts\32\3270b765c4597c0146cbc2640a5911b3
+  - path: Ripple_Demo\Library\Artifacts\2f\2ff5440ed688bc85d08cd301a7a313b0
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\2f\2ff5440ed688bc85d08cd301a7a313b0
+    projectPath: Library\Artifacts\2f\2ff5440ed688bc85d08cd301a7a313b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\31\31bdcff61c471f84be10238dc19cba1c
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\31\31bdcff61c471f84be10238dc19cba1c
+    projectPath: Library\Artifacts\31\31bdcff61c471f84be10238dc19cba1c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -889,29 +592,23 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\32\32aa12cba6b4812e38327751046eda11
     projectPath: Library\Artifacts\32\32aa12cba6b4812e38327751046eda11
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\36\36ebfa0322abae1158d4e63b87a81745
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\36\36ebfa0322abae1158d4e63b87a81745
-    projectPath: Library\Artifacts\36\36ebfa0322abae1158d4e63b87a81745
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\37\3747d01bfcc390ea4ebc5976057c1170
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\37\3747d01bfcc390ea4ebc5976057c1170
-    projectPath: Library\Artifacts\37\3747d01bfcc390ea4ebc5976057c1170
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\36\36b1e50862b9dcdb0a2de0e551b87356
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\36\36b1e50862b9dcdb0a2de0e551b87356
+    projectPath: Library\Artifacts\36\36b1e50862b9dcdb0a2de0e551b87356
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\38\387c6f1002d5f7abdaddb54229421f7e
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\38\387c6f1002d5f7abdaddb54229421f7e
-    projectPath: Library\Artifacts\38\387c6f1002d5f7abdaddb54229421f7e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Ripple_Demo\Library\Artifacts\38\38ba058d160e7b315ceeb106e313754c
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\38\38ba058d160e7b315ceeb106e313754c
     projectPath: Library\Artifacts\38\38ba058d160e7b315ceeb106e313754c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\39\3987fdb77460a68d0bf54478921ea380
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\39\3987fdb77460a68d0bf54478921ea380
+    projectPath: Library\Artifacts\39\3987fdb77460a68d0bf54478921ea380
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -919,23 +616,35 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\39\39fde97dce3a7b580c4c6c508786b873
     projectPath: Library\Artifacts\39\39fde97dce3a7b580c4c6c508786b873
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\3b\3b1f3c100bf4f4c1a320cbb09c9f055d
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\3b\3b1f3c100bf4f4c1a320cbb09c9f055d
+    projectPath: Library\Artifacts\3b\3b1f3c100bf4f4c1a320cbb09c9f055d
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\3d\3ddb003053f8677e9f61de9e6a031bcf
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\3d\3ddb003053f8677e9f61de9e6a031bcf
-    projectPath: Library\Artifacts\3d\3ddb003053f8677e9f61de9e6a031bcf
+  - path: Ripple_Demo\Library\Artifacts\3e\3ef66b244cf7b19670f9c547c19022f5
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\3e\3ef66b244cf7b19670f9c547c19022f5
+    projectPath: Library\Artifacts\3e\3ef66b244cf7b19670f9c547c19022f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\3f\3f94c238b57a612ffb0440a52bb928e2
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\3f\3f94c238b57a612ffb0440a52bb928e2
+    projectPath: Library\Artifacts\3f\3f94c238b57a612ffb0440a52bb928e2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\3e\3e4cf9a4351e65186745fc4d1149e36e
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\3e\3e4cf9a4351e65186745fc4d1149e36e
-    projectPath: Library\Artifacts\3e\3e4cf9a4351e65186745fc4d1149e36e
+  - path: Ripple_Demo\Library\Artifacts\40\4038d49ff7665039433c5e3c9c0bac5f
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\40\4038d49ff7665039433c5e3c9c0bac5f
+    projectPath: Library\Artifacts\40\4038d49ff7665039433c5e3c9c0bac5f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\3f\3f501028baebecf9eced1288dc3d05ee
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\3f\3f501028baebecf9eced1288dc3d05ee
-    projectPath: Library\Artifacts\3f\3f501028baebecf9eced1288dc3d05ee
+  - path: Ripple_Demo\Library\Artifacts\40\40c5ed4b3c413d3d7d6d076ec6d1b89b
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\40\40c5ed4b3c413d3d7d6d076ec6d1b89b
+    projectPath: Library\Artifacts\40\40c5ed4b3c413d3d7d6d076ec6d1b89b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -943,23 +652,17 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\41\41d3653cea423bbedd4b2b159fd07c82
     projectPath: Library\Artifacts\41\41d3653cea423bbedd4b2b159fd07c82
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\44\440cd07751cd899a8b4a78887b72b2bd
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\44\440cd07751cd899a8b4a78887b72b2bd
-    projectPath: Library\Artifacts\44\440cd07751cd899a8b4a78887b72b2bd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\43\433bb9623b144283bc691ac36b70bfdb
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\43\433bb9623b144283bc691ac36b70bfdb
+    projectPath: Library\Artifacts\43\433bb9623b144283bc691ac36b70bfdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\45\45f7ef184e13aa3891e843848a0b42cd
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\45\45f7ef184e13aa3891e843848a0b42cd
-    projectPath: Library\Artifacts\45\45f7ef184e13aa3891e843848a0b42cd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\46\466ff9ff48fe305ac9064450bbaf5729
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\46\466ff9ff48fe305ac9064450bbaf5729
-    projectPath: Library\Artifacts\46\466ff9ff48fe305ac9064450bbaf5729
+  - path: Ripple_Demo\Library\Artifacts\45\452dd8db7b1aa13be4ebc004a6cd4fc2
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\45\452dd8db7b1aa13be4ebc004a6cd4fc2
+    projectPath: Library\Artifacts\45\452dd8db7b1aa13be4ebc004a6cd4fc2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -967,53 +670,41 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\46\46b0e3c7a2169e4198541edeb78bd80d
     projectPath: Library\Artifacts\46\46b0e3c7a2169e4198541edeb78bd80d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\48\481dbda9c6bcd83e8f7d6e85c9ba4874
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\48\481dbda9c6bcd83e8f7d6e85c9ba4874
-    projectPath: Library\Artifacts\48\481dbda9c6bcd83e8f7d6e85c9ba4874
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Ripple_Demo\Library\Artifacts\49\495d374b271b18d5b69da86df9052dd7
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\49\495d374b271b18d5b69da86df9052dd7
     projectPath: Library\Artifacts\49\495d374b271b18d5b69da86df9052dd7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Ripple_Demo\Library\Artifacts\49\49bdab40eb4e62f22d8dba2d4902a090
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\49\49bdab40eb4e62f22d8dba2d4902a090
     projectPath: Library\Artifacts\49\49bdab40eb4e62f22d8dba2d4902a090
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\4b\4b24441db00ca7915025498748589854
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\4b\4b24441db00ca7915025498748589854
-    projectPath: Library\Artifacts\4b\4b24441db00ca7915025498748589854
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\4d\4dc4dcccdc4f3ede0d51e75bec838596
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\4d\4dc4dcccdc4f3ede0d51e75bec838596
-    projectPath: Library\Artifacts\4d\4dc4dcccdc4f3ede0d51e75bec838596
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\4d\4debb669a58bac189f571715437b91a6
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\4d\4debb669a58bac189f571715437b91a6
-    projectPath: Library\Artifacts\4d\4debb669a58bac189f571715437b91a6
+  - path: Ripple_Demo\Library\Artifacts\4a\4a8275f4f8dd01fa25005cf7bb1fda98
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\4a\4a8275f4f8dd01fa25005cf7bb1fda98
+    projectPath: Library\Artifacts\4a\4a8275f4f8dd01fa25005cf7bb1fda98
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\4e\4e7407bf8db5524251ccfc524cbd5b14
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\4e\4e7407bf8db5524251ccfc524cbd5b14
-    projectPath: Library\Artifacts\4e\4e7407bf8db5524251ccfc524cbd5b14
+  - path: Ripple_Demo\Library\Artifacts\4b\4b1e593d7f961b5f04605add845be661
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\4b\4b1e593d7f961b5f04605add845be661
+    projectPath: Library\Artifacts\4b\4b1e593d7f961b5f04605add845be661
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\4f\4fd0803280acbfe1a53ff533d22cd966
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\4f\4fd0803280acbfe1a53ff533d22cd966
-    projectPath: Library\Artifacts\4f\4fd0803280acbfe1a53ff533d22cd966
+  - path: Ripple_Demo\Library\Artifacts\4e\4eed340d774b838b903f0b8ce82e9af6
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\4e\4eed340d774b838b903f0b8ce82e9af6
+    projectPath: Library\Artifacts\4e\4eed340d774b838b903f0b8ce82e9af6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\50\5029e8af537f3e3e4f702ac2819ae578
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\50\5029e8af537f3e3e4f702ac2819ae578
+    projectPath: Library\Artifacts\50\5029e8af537f3e3e4f702ac2819ae578
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1021,17 +712,29 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\50\50531fd7531fe7b7d96c46d1f9405338
     projectPath: Library\Artifacts\50\50531fd7531fe7b7d96c46d1f9405338
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Ripple_Demo\Library\Artifacts\51\5190e9f72b6d1c23c795f79158468ea0
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\51\5190e9f72b6d1c23c795f79158468ea0
     projectPath: Library\Artifacts\51\5190e9f72b6d1c23c795f79158468ea0
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\51\519b6b15411a8be6a53d67b98f45694a
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\51\519b6b15411a8be6a53d67b98f45694a
+    projectPath: Library\Artifacts\51\519b6b15411a8be6a53d67b98f45694a
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\54\546207d0698f5b44b08bf2c5b5cfc9bc
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\54\546207d0698f5b44b08bf2c5b5cfc9bc
-    projectPath: Library\Artifacts\54\546207d0698f5b44b08bf2c5b5cfc9bc
+  - path: Ripple_Demo\Library\Artifacts\5a\5ae0e35a6b0729b1b19259926fd750fa
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\5a\5ae0e35a6b0729b1b19259926fd750fa
+    projectPath: Library\Artifacts\5a\5ae0e35a6b0729b1b19259926fd750fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    projectPath: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1039,59 +742,47 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\5f\5f59cb03f90d693536f8db2194032d9d
     projectPath: Library\Artifacts\5f\5f59cb03f90d693536f8db2194032d9d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Ripple_Demo\Library\Artifacts\5f\5fc24830f89f2ea1d0416f9939c430c9
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\5f\5fc24830f89f2ea1d0416f9939c430c9
     projectPath: Library\Artifacts\5f\5fc24830f89f2ea1d0416f9939c430c9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\61\614b4aee1da0ce7045b8efd9cb32c151
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\61\614b4aee1da0ce7045b8efd9cb32c151
-    projectPath: Library\Artifacts\61\614b4aee1da0ce7045b8efd9cb32c151
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\62\62a18afae6bcfa1fe9c41429f119dd48
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\62\62a18afae6bcfa1fe9c41429f119dd48
-    projectPath: Library\Artifacts\62\62a18afae6bcfa1fe9c41429f119dd48
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\63\63ef6b8884678fa664eec3ead0d026ba
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\63\63ef6b8884678fa664eec3ead0d026ba
-    projectPath: Library\Artifacts\63\63ef6b8884678fa664eec3ead0d026ba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\65\659efddead419ee1f9e0837b7ba71446
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\65\659efddead419ee1f9e0837b7ba71446
-    projectPath: Library\Artifacts\65\659efddead419ee1f9e0837b7ba71446
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\67\6712256b8662928f98ad832776e230a3
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\67\6712256b8662928f98ad832776e230a3
-    projectPath: Library\Artifacts\67\6712256b8662928f98ad832776e230a3
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\68\68d8a08267d9bb934e3033493ea0b020
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\68\68d8a08267d9bb934e3033493ea0b020
-    projectPath: Library\Artifacts\68\68d8a08267d9bb934e3033493ea0b020
+  - path: Ripple_Demo\Library\Artifacts\60\60c644aea9a9aacd672b9c46a63096cd
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\60\60c644aea9a9aacd672b9c46a63096cd
+    projectPath: Library\Artifacts\60\60c644aea9a9aacd672b9c46a63096cd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\69\69f32824771f4762ebf7e4e0cbdc89f7
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\69\69f32824771f4762ebf7e4e0cbdc89f7
-    projectPath: Library\Artifacts\69\69f32824771f4762ebf7e4e0cbdc89f7
+  - path: Ripple_Demo\Library\Artifacts\60\60ee7103fb7dd8b2ff2403baeba53c63
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\60\60ee7103fb7dd8b2ff2403baeba53c63
+    projectPath: Library\Artifacts\60\60ee7103fb7dd8b2ff2403baeba53c63
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\6a\6a1804f9f73b9ab4334b3651b9c4ec7b
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\6a\6a1804f9f73b9ab4334b3651b9c4ec7b
-    projectPath: Library\Artifacts\6a\6a1804f9f73b9ab4334b3651b9c4ec7b
+  - path: Ripple_Demo\Library\Artifacts\61\612a154d5f0f204a3623bd82a91d34aa
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\61\612a154d5f0f204a3623bd82a91d34aa
+    projectPath: Library\Artifacts\61\612a154d5f0f204a3623bd82a91d34aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\63\63eec117b8cfcba2c921b4af7e355ab3
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\63\63eec117b8cfcba2c921b4af7e355ab3
+    projectPath: Library\Artifacts\63\63eec117b8cfcba2c921b4af7e355ab3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\67\673c6bd53d80fb338457160ff933634d
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\67\673c6bd53d80fb338457160ff933634d
+    projectPath: Library\Artifacts\67\673c6bd53d80fb338457160ff933634d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\69\697edacb77a60fc59b602f28fbd7a45b
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\69\697edacb77a60fc59b602f28fbd7a45b
+    projectPath: Library\Artifacts\69\697edacb77a60fc59b602f28fbd7a45b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1099,95 +790,41 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\6b\6b2bdefa1404dcb09d1df6568cdac7fe
     projectPath: Library\Artifacts\6b\6b2bdefa1404dcb09d1df6568cdac7fe
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\6d\6d1bf71b26cd4e480f533117697bf000
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\6d\6d1bf71b26cd4e480f533117697bf000
-    projectPath: Library\Artifacts\6d\6d1bf71b26cd4e480f533117697bf000
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\6d\6d500e5b50478ec17266b86ae65e89ef
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\6d\6d500e5b50478ec17266b86ae65e89ef
-    projectPath: Library\Artifacts\6d\6d500e5b50478ec17266b86ae65e89ef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Ripple_Demo\Library\Artifacts\6d\6d53102662b47796930782517bbefefe
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\6d\6d53102662b47796930782517bbefefe
     projectPath: Library\Artifacts\6d\6d53102662b47796930782517bbefefe
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\6e\6e0f4e454e2e37a41f0d71ba3b904094
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\6e\6e0f4e454e2e37a41f0d71ba3b904094
-    projectPath: Library\Artifacts\6e\6e0f4e454e2e37a41f0d71ba3b904094
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\6e\6e4bffb4d4de8898fcae545541d26157
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\6e\6e4bffb4d4de8898fcae545541d26157
-    projectPath: Library\Artifacts\6e\6e4bffb4d4de8898fcae545541d26157
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\72\72064c91e9fb29fb0471043518b58755
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\72\72064c91e9fb29fb0471043518b58755
-    projectPath: Library\Artifacts\72\72064c91e9fb29fb0471043518b58755
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\72\7258b3b499cd0c5871ec269002432f7b
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\72\7258b3b499cd0c5871ec269002432f7b
-    projectPath: Library\Artifacts\72\7258b3b499cd0c5871ec269002432f7b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\74\74a6eed5203cf575a01786c455de8425
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\74\74a6eed5203cf575a01786c455de8425
-    projectPath: Library\Artifacts\74\74a6eed5203cf575a01786c455de8425
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\76\76ba08eaec47399a80af6d72da74174d
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\76\76ba08eaec47399a80af6d72da74174d
-    projectPath: Library\Artifacts\76\76ba08eaec47399a80af6d72da74174d
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\6f\6fc2e56f5d806bf668d634c7e04a6541
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\6f\6fc2e56f5d806bf668d634c7e04a6541
+    projectPath: Library\Artifacts\6f\6fc2e56f5d806bf668d634c7e04a6541
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\76\76dca514e70bb390c394b6423a6b0117
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\76\76dca514e70bb390c394b6423a6b0117
-    projectPath: Library\Artifacts\76\76dca514e70bb390c394b6423a6b0117
+  - path: Ripple_Demo\Library\Artifacts\71\7100e5f0ae0b335b8b57295225cac201
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\71\7100e5f0ae0b335b8b57295225cac201
+    projectPath: Library\Artifacts\71\7100e5f0ae0b335b8b57295225cac201
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\77\778219b4823a059f9fb59f0c6e391d56
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\77\778219b4823a059f9fb59f0c6e391d56
-    projectPath: Library\Artifacts\77\778219b4823a059f9fb59f0c6e391d56
+  - path: Ripple_Demo\Library\Artifacts\71\712c74e05ea0c17a4e71c09ec26a9347
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\71\712c74e05ea0c17a4e71c09ec26a9347
+    projectPath: Library\Artifacts\71\712c74e05ea0c17a4e71c09ec26a9347
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\78\78ef3e4b97fdbe53a91149b9e47012d0
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\78\78ef3e4b97fdbe53a91149b9e47012d0
-    projectPath: Library\Artifacts\78\78ef3e4b97fdbe53a91149b9e47012d0
+  - path: Ripple_Demo\Library\Artifacts\78\78bf6efe1896eeb73fdb44ded39216e1
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\78\78bf6efe1896eeb73fdb44ded39216e1
+    projectPath: Library\Artifacts\78\78bf6efe1896eeb73fdb44ded39216e1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\7c\7cb74effa8e4aa66deff77d04320df14
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\7c\7cb74effa8e4aa66deff77d04320df14
-    projectPath: Library\Artifacts\7c\7cb74effa8e4aa66deff77d04320df14
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\7f\7ff89d5412db047748fb64a1fc643431
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\7f\7ff89d5412db047748fb64a1fc643431
-    projectPath: Library\Artifacts\7f\7ff89d5412db047748fb64a1fc643431
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\82\82dc5096153415b7eed6a0306255cace
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\82\82dc5096153415b7eed6a0306255cace
-    projectPath: Library\Artifacts\82\82dc5096153415b7eed6a0306255cace
+  - path: Ripple_Demo\Library\Artifacts\7d\7d5003b81e7c5589cd48b2ce62d98c62
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\7d\7d5003b81e7c5589cd48b2ce62d98c62
+    projectPath: Library\Artifacts\7d\7d5003b81e7c5589cd48b2ce62d98c62
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1195,125 +832,113 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\85\85bab3afaa3cf23b4b1eb5c1abcb05c8
     projectPath: Library\Artifacts\85\85bab3afaa3cf23b4b1eb5c1abcb05c8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\86\866ec07dc20a84b356ef5577b63129bd
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\86\866ec07dc20a84b356ef5577b63129bd
-    projectPath: Library\Artifacts\86\866ec07dc20a84b356ef5577b63129bd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\85\85ca1a3cb246c34134f30ebd0c2fe9b3
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\85\85ca1a3cb246c34134f30ebd0c2fe9b3
+    projectPath: Library\Artifacts\85\85ca1a3cb246c34134f30ebd0c2fe9b3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\88\8842ec5a6afad7b627d59ca161f1d8f1
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\88\8842ec5a6afad7b627d59ca161f1d8f1
-    projectPath: Library\Artifacts\88\8842ec5a6afad7b627d59ca161f1d8f1
+  - path: Ripple_Demo\Library\Artifacts\87\87c786c13dd66bb6c569280f85003b54
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\87\87c786c13dd66bb6c569280f85003b54
+    projectPath: Library\Artifacts\87\87c786c13dd66bb6c569280f85003b54
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\8a\8af93287a4ccaa4f6a548bbf904c17bb
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\8a\8af93287a4ccaa4f6a548bbf904c17bb
-    projectPath: Library\Artifacts\8a\8af93287a4ccaa4f6a548bbf904c17bb
+  - path: Ripple_Demo\Library\Artifacts\8d\8d14b72c3dc9d6f73bf2ab1ae2b1f002
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\8d\8d14b72c3dc9d6f73bf2ab1ae2b1f002
+    projectPath: Library\Artifacts\8d\8d14b72c3dc9d6f73bf2ab1ae2b1f002
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\8b\8b1b98a920562a36aa77dab395fcef43
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\8b\8b1b98a920562a36aa77dab395fcef43
-    projectPath: Library\Artifacts\8b\8b1b98a920562a36aa77dab395fcef43
+  - path: Ripple_Demo\Library\Artifacts\8f\8f5007c5c25ea64241c9548844f9cb9c
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\8f\8f5007c5c25ea64241c9548844f9cb9c
+    projectPath: Library\Artifacts\8f\8f5007c5c25ea64241c9548844f9cb9c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\8b\8b891cbf02074932ba432ac1a776dd8e
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\8b\8b891cbf02074932ba432ac1a776dd8e
-    projectPath: Library\Artifacts\8b\8b891cbf02074932ba432ac1a776dd8e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\8c\8c7dc0f097c62cbf39a81d70d13320eb
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\8c\8c7dc0f097c62cbf39a81d70d13320eb
-    projectPath: Library\Artifacts\8c\8c7dc0f097c62cbf39a81d70d13320eb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\90\9061aaeb21a137ef855d52fa6f073ac1
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\90\9061aaeb21a137ef855d52fa6f073ac1
-    projectPath: Library\Artifacts\90\9061aaeb21a137ef855d52fa6f073ac1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\91\91085668ef0e0de942181c9dbe029cec
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\91\91085668ef0e0de942181c9dbe029cec
-    projectPath: Library\Artifacts\91\91085668ef0e0de942181c9dbe029cec
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\9a\9ab9d5ac943fea13965131417a1e3fce
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\9a\9ab9d5ac943fea13965131417a1e3fce
-    projectPath: Library\Artifacts\9a\9ab9d5ac943fea13965131417a1e3fce
+  - path: Ripple_Demo\Library\Artifacts\94\9427308ce5830c094037ca3250a40cdb
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\94\9427308ce5830c094037ca3250a40cdb
+    projectPath: Library\Artifacts\94\9427308ce5830c094037ca3250a40cdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\9c\9c0d76707e94b668f2a16417f50fe51e
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\9c\9c0d76707e94b668f2a16417f50fe51e
-    projectPath: Library\Artifacts\9c\9c0d76707e94b668f2a16417f50fe51e
+  - path: Ripple_Demo\Library\Artifacts\96\962fe37c54106d16aea61456c1e15d54
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\96\962fe37c54106d16aea61456c1e15d54
+    projectPath: Library\Artifacts\96\962fe37c54106d16aea61456c1e15d54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\9b\9b3caf07f65a2b7ec251e58c171de258
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\9b\9b3caf07f65a2b7ec251e58c171de258
+    projectPath: Library\Artifacts\9b\9b3caf07f65a2b7ec251e58c171de258
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\9b\9bdad3e682fa3b30833481b9ceb74123
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\9b\9bdad3e682fa3b30833481b9ceb74123
+    projectPath: Library\Artifacts\9b\9bdad3e682fa3b30833481b9ceb74123
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Ripple_Demo\Library\Artifacts\9d\9d3a183dbcef683d7a9101bf4db55ad9
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\9d\9d3a183dbcef683d7a9101bf4db55ad9
     projectPath: Library\Artifacts\9d\9d3a183dbcef683d7a9101bf4db55ad9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\9e\9e6e065346745b4d9102d0fb1f382b42
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\9e\9e6e065346745b4d9102d0fb1f382b42
-    projectPath: Library\Artifacts\9e\9e6e065346745b4d9102d0fb1f382b42
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\a6\a6a77827426c2c3e491c381837855f80
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\a6\a6a77827426c2c3e491c381837855f80
+    projectPath: Library\Artifacts\a6\a6a77827426c2c3e491c381837855f80
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\a1\a15fe1fe3db93da6561aab2554227a0a
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\a1\a15fe1fe3db93da6561aab2554227a0a
-    projectPath: Library\Artifacts\a1\a15fe1fe3db93da6561aab2554227a0a
+  - path: Ripple_Demo\Library\Artifacts\a7\a7e88c7f230dc52486ca48d6e7ef1990
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\a7\a7e88c7f230dc52486ca48d6e7ef1990
+    projectPath: Library\Artifacts\a7\a7e88c7f230dc52486ca48d6e7ef1990
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\a9\a9488953e857ca39e1cc3bddd25afc57
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\a9\a9488953e857ca39e1cc3bddd25afc57
+    projectPath: Library\Artifacts\a9\a9488953e857ca39e1cc3bddd25afc57
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\a9\a92bc3531ef90774175e0bda187e7cb0
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\a9\a92bc3531ef90774175e0bda187e7cb0
-    projectPath: Library\Artifacts\a9\a92bc3531ef90774175e0bda187e7cb0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\a9\a9d9ef13a50b568917373ced9d099209
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\a9\a9d9ef13a50b568917373ced9d099209
-    projectPath: Library\Artifacts\a9\a9d9ef13a50b568917373ced9d099209
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Ripple_Demo\Library\Artifacts\aa\aa3d99a713b8bde30c30eadb905a603b
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\aa\aa3d99a713b8bde30c30eadb905a603b
     projectPath: Library\Artifacts\aa\aa3d99a713b8bde30c30eadb905a603b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\aa\aabff6dffb95a4a786664b77ba2a3a0d
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\aa\aabff6dffb95a4a786664b77ba2a3a0d
-    projectPath: Library\Artifacts\aa\aabff6dffb95a4a786664b77ba2a3a0d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\ae\ae57e668e734931fddf38bbb9ed00654
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\ae\ae57e668e734931fddf38bbb9ed00654
-    projectPath: Library\Artifacts\ae\ae57e668e734931fddf38bbb9ed00654
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\ae\aed89cc4a7a3fd0d2957658145728297
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\ae\aed89cc4a7a3fd0d2957658145728297
-    projectPath: Library\Artifacts\ae\aed89cc4a7a3fd0d2957658145728297
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\b1\b17c9eaf6f761240bb075386977f5ac6
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\b1\b17c9eaf6f761240bb075386977f5ac6
-    projectPath: Library\Artifacts\b1\b17c9eaf6f761240bb075386977f5ac6
+  - path: Ripple_Demo\Library\Artifacts\ae\ae0eb2660e5798a293d94eb24680a4f8
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\ae\ae0eb2660e5798a293d94eb24680a4f8
+    projectPath: Library\Artifacts\ae\ae0eb2660e5798a293d94eb24680a4f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\ae\ae9273b55199bcd16af2ced255fa8dfa
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\ae\ae9273b55199bcd16af2ced255fa8dfa
+    projectPath: Library\Artifacts\ae\ae9273b55199bcd16af2ced255fa8dfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\ae\aee4ede9e8b0d316ff85888bac9b16ae
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\ae\aee4ede9e8b0d316ff85888bac9b16ae
+    projectPath: Library\Artifacts\ae\aee4ede9e8b0d316ff85888bac9b16ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\b0\b00da7af2b7ef18087043e422c08928b
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\b0\b00da7af2b7ef18087043e422c08928b
+    projectPath: Library\Artifacts\b0\b00da7af2b7ef18087043e422c08928b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\b1\b11544b4715e171a9abeeb5c264e3fa5
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\b1\b11544b4715e171a9abeeb5c264e3fa5
+    projectPath: Library\Artifacts\b1\b11544b4715e171a9abeeb5c264e3fa5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1321,71 +946,89 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\b3\b3588f1618c15bdb36da94fbdab3721f
     projectPath: Library\Artifacts\b3\b3588f1618c15bdb36da94fbdab3721f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\b3\b3e1c714bf46cb93e8a54ad18bd34e17
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\b3\b3e1c714bf46cb93e8a54ad18bd34e17
-    projectPath: Library\Artifacts\b3\b3e1c714bf46cb93e8a54ad18bd34e17
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\b4\b4dee509e3e7bb7e088d8e83bdad0fdd
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\b4\b4dee509e3e7bb7e088d8e83bdad0fdd
+    projectPath: Library\Artifacts\b4\b4dee509e3e7bb7e088d8e83bdad0fdd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\b4\b438dd7580dcb830bc7e444e2c859c74
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\b4\b438dd7580dcb830bc7e444e2c859c74
-    projectPath: Library\Artifacts\b4\b438dd7580dcb830bc7e444e2c859c74
+  - path: Ripple_Demo\Library\Artifacts\b5\b558f8fdbf59bb8698f0f88010afeafa
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\b5\b558f8fdbf59bb8698f0f88010afeafa
+    projectPath: Library\Artifacts\b5\b558f8fdbf59bb8698f0f88010afeafa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\b4\b4fd674284c7ab939b58187f35744ac8
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\b4\b4fd674284c7ab939b58187f35744ac8
-    projectPath: Library\Artifacts\b4\b4fd674284c7ab939b58187f35744ac8
+  - path: Ripple_Demo\Library\Artifacts\b5\b56de39f6cb0e18a5339d2c4a85c9a09
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\b5\b56de39f6cb0e18a5339d2c4a85c9a09
+    projectPath: Library\Artifacts\b5\b56de39f6cb0e18a5339d2c4a85c9a09
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\b6\b6660e850b2854d790814229964fd366
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\b6\b6660e850b2854d790814229964fd366
-    projectPath: Library\Artifacts\b6\b6660e850b2854d790814229964fd366
+  - path: Ripple_Demo\Library\Artifacts\b6\b666d31303a1f8db986d8077d44f4450
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\b6\b666d31303a1f8db986d8077d44f4450
+    projectPath: Library\Artifacts\b6\b666d31303a1f8db986d8077d44f4450
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\ba\bad41db473ea8c705a3f10c17d7d1497
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\ba\bad41db473ea8c705a3f10c17d7d1497
-    projectPath: Library\Artifacts\ba\bad41db473ea8c705a3f10c17d7d1497
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\bb\bb5116cfa51a3a8c3a846972d8761dfb
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\bb\bb5116cfa51a3a8c3a846972d8761dfb
+    projectPath: Library\Artifacts\bb\bb5116cfa51a3a8c3a846972d8761dfb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Ripple_Demo\Library\Artifacts\bb\bbd9cf1c8f323e4965dd3cece6e03b7f
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\bb\bbd9cf1c8f323e4965dd3cece6e03b7f
     projectPath: Library\Artifacts\bb\bbd9cf1c8f323e4965dd3cece6e03b7f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\bc\bc1f32410cbc2b27b68da0acdef8d76b
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\bc\bc1f32410cbc2b27b68da0acdef8d76b
-    projectPath: Library\Artifacts\bc\bc1f32410cbc2b27b68da0acdef8d76b
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\bd\bdf003b72dc1bfcd415fbd05036bd9a6
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\bd\bdf003b72dc1bfcd415fbd05036bd9a6
+    projectPath: Library\Artifacts\bd\bdf003b72dc1bfcd415fbd05036bd9a6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\bf\bf0efb0bf6745f9be2d5caedea7b927d
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\bf\bf0efb0bf6745f9be2d5caedea7b927d
-    projectPath: Library\Artifacts\bf\bf0efb0bf6745f9be2d5caedea7b927d
+  - path: Ripple_Demo\Library\Artifacts\c0\c02c7a4c54fe9dba120264f711fd7763
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\c0\c02c7a4c54fe9dba120264f711fd7763
+    projectPath: Library\Artifacts\c0\c02c7a4c54fe9dba120264f711fd7763
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\bf\bfd0eb788fb02fe4d2572573453ece4a
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\bf\bfd0eb788fb02fe4d2572573453ece4a
-    projectPath: Library\Artifacts\bf\bfd0eb788fb02fe4d2572573453ece4a
+  - path: Ripple_Demo\Library\Artifacts\c2\c26dbe955e6f44154523a8dfd3ab1f0a
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\c2\c26dbe955e6f44154523a8dfd3ab1f0a
+    projectPath: Library\Artifacts\c2\c26dbe955e6f44154523a8dfd3ab1f0a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\c4\c4394e18a9b9f8a948922a9e32c2b460
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\c4\c4394e18a9b9f8a948922a9e32c2b460
+    projectPath: Library\Artifacts\c4\c4394e18a9b9f8a948922a9e32c2b460
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\c1\c14eb9a995d9e6e6bbbe9e32753a9177
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\c1\c14eb9a995d9e6e6bbbe9e32753a9177
-    projectPath: Library\Artifacts\c1\c14eb9a995d9e6e6bbbe9e32753a9177
+  - path: Ripple_Demo\Library\Artifacts\c4\c439be91373e6bc6df9d59f4a652cc90
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\c4\c439be91373e6bc6df9d59f4a652cc90
+    projectPath: Library\Artifacts\c4\c439be91373e6bc6df9d59f4a652cc90
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\c2\c2d5e39c46654176a8907369fe3c890b
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\c2\c2d5e39c46654176a8907369fe3c890b
-    projectPath: Library\Artifacts\c2\c2d5e39c46654176a8907369fe3c890b
+  - path: Ripple_Demo\Library\Artifacts\c5\c54fe711e662825d6c39f4209446bee4
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\c5\c54fe711e662825d6c39f4209446bee4
+    projectPath: Library\Artifacts\c5\c54fe711e662825d6c39f4209446bee4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\c8\c82b7d710c16a428640052fc2ce7e463
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\c8\c82b7d710c16a428640052fc2ce7e463
+    projectPath: Library\Artifacts\c8\c82b7d710c16a428640052fc2ce7e463
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\c9\c9c86104c10c06ca9af2342895419a4f
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\c9\c9c86104c10c06ca9af2342895419a4f
+    projectPath: Library\Artifacts\c9\c9c86104c10c06ca9af2342895419a4f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1393,35 +1036,47 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\ca\ca6a26c5a132ba3ee3db659718ad9703
     projectPath: Library\Artifacts\ca\ca6a26c5a132ba3ee3db659718ad9703
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\cc\cc109562489133d2984590c55cfcb809
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\cc\cc109562489133d2984590c55cfcb809
-    projectPath: Library\Artifacts\cc\cc109562489133d2984590c55cfcb809
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\cd\cd3194b48cf639f6cda315a42401fd8a
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\cd\cd3194b48cf639f6cda315a42401fd8a
+    projectPath: Library\Artifacts\cd\cd3194b48cf639f6cda315a42401fd8a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\cd\cdf3ba0707cfbe77d18489b9820ab47e
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\cd\cdf3ba0707cfbe77d18489b9820ab47e
-    projectPath: Library\Artifacts\cd\cdf3ba0707cfbe77d18489b9820ab47e
+  - path: Ripple_Demo\Library\Artifacts\d1\d16d9eabc7e697a3fce0a93b7a01be69
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\d1\d16d9eabc7e697a3fce0a93b7a01be69
+    projectPath: Library\Artifacts\d1\d16d9eabc7e697a3fce0a93b7a01be69
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\d1\d1754bd6743f4657a4470df9a27fb8cf
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\d1\d1754bd6743f4657a4470df9a27fb8cf
-    projectPath: Library\Artifacts\d1\d1754bd6743f4657a4470df9a27fb8cf
+  - path: Ripple_Demo\Library\Artifacts\d2\d28f1d4530445a944c01c5eda495219b
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\d2\d28f1d4530445a944c01c5eda495219b
+    projectPath: Library\Artifacts\d2\d28f1d4530445a944c01c5eda495219b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\d7\d7cb673b313992e68ba65ea44a10cc5a
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\d7\d7cb673b313992e68ba65ea44a10cc5a
-    projectPath: Library\Artifacts\d7\d7cb673b313992e68ba65ea44a10cc5a
+  - path: Ripple_Demo\Library\Artifacts\d7\d76e32cacecd1edd3240dfc0848ccde2
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\d7\d76e32cacecd1edd3240dfc0848ccde2
+    projectPath: Library\Artifacts\d7\d76e32cacecd1edd3240dfc0848ccde2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\da\dafdc4129ec2108cffcc92c984d36474
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\da\dafdc4129ec2108cffcc92c984d36474
-    projectPath: Library\Artifacts\da\dafdc4129ec2108cffcc92c984d36474
+  - path: Ripple_Demo\Library\Artifacts\d9\d95c85515ba4c33432f14a7b7588c748
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\d9\d95c85515ba4c33432f14a7b7588c748
+    projectPath: Library\Artifacts\d9\d95c85515ba4c33432f14a7b7588c748
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\da\dae843be911086bb84cb3b47586f4824
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\da\dae843be911086bb84cb3b47586f4824
+    projectPath: Library\Artifacts\da\dae843be911086bb84cb3b47586f4824
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\da\dae9937c62cad4c8db13ee760378dfa7
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\da\dae9937c62cad4c8db13ee760378dfa7
+    projectPath: Library\Artifacts\da\dae9937c62cad4c8db13ee760378dfa7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1429,125 +1084,89 @@ MonoBehaviour:
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\dc\dc182b5ba09dc55ef6db91a8425d01f4
     projectPath: Library\Artifacts\dc\dc182b5ba09dc55ef6db91a8425d01f4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\dc\dcf099cbd8327e0f9a60916854328588
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\dc\dcf099cbd8327e0f9a60916854328588
-    projectPath: Library\Artifacts\dc\dcf099cbd8327e0f9a60916854328588
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Ripple_Demo\Library\Artifacts\dd\dd7e726864948346127d0c21908e554f
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\dd\dd7e726864948346127d0c21908e554f
     projectPath: Library\Artifacts\dd\dd7e726864948346127d0c21908e554f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\df\df53ecaeb1737e87c80293d90c12f129
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\df\df53ecaeb1737e87c80293d90c12f129
-    projectPath: Library\Artifacts\df\df53ecaeb1737e87c80293d90c12f129
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ripple_Demo\Library\Artifacts\df\df13daf559c310791a30665ecb3344cc
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\df\df13daf559c310791a30665ecb3344cc
+    projectPath: Library\Artifacts\df\df13daf559c310791a30665ecb3344cc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\e0\e0d2c1be0838cb2a939eae118602a421
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\e0\e0d2c1be0838cb2a939eae118602a421
-    projectPath: Library\Artifacts\e0\e0d2c1be0838cb2a939eae118602a421
+  - path: Ripple_Demo\Library\Artifacts\df\dff1b3af6b91340145cb9058a20ba793
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\df\dff1b3af6b91340145cb9058a20ba793
+    projectPath: Library\Artifacts\df\dff1b3af6b91340145cb9058a20ba793
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\e2\e20424aab579172999523c493fdd3e8f
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\e2\e20424aab579172999523c493fdd3e8f
+    projectPath: Library\Artifacts\e2\e20424aab579172999523c493fdd3e8f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\e2\e280d69088dfe728c5df1bbdfda4293f
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\e2\e280d69088dfe728c5df1bbdfda4293f
+    projectPath: Library\Artifacts\e2\e280d69088dfe728c5df1bbdfda4293f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\e3\e374115c83f53f99d84636605e6683d3
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\e3\e374115c83f53f99d84636605e6683d3
+    projectPath: Library\Artifacts\e3\e374115c83f53f99d84636605e6683d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\e8\e8adc35f80613a341aa6d63f394192b3
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\e8\e8adc35f80613a341aa6d63f394192b3
+    projectPath: Library\Artifacts\e8\e8adc35f80613a341aa6d63f394192b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\ec\ec4c5c6eae9e494acb63fef7f6deb30d
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\ec\ec4c5c6eae9e494acb63fef7f6deb30d
+    projectPath: Library\Artifacts\ec\ec4c5c6eae9e494acb63fef7f6deb30d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\e0\e0d9a59baf4c7576f5332801959bdd55
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\e0\e0d9a59baf4c7576f5332801959bdd55
-    projectPath: Library\Artifacts\e0\e0d9a59baf4c7576f5332801959bdd55
+  - path: Ripple_Demo\Library\Artifacts\ee\ee0cf2c06bc1787addad030dd488fc14
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\ee\ee0cf2c06bc1787addad030dd488fc14
+    projectPath: Library\Artifacts\ee\ee0cf2c06bc1787addad030dd488fc14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\Artifacts\f4\f4429ca4dd86ead0d02618efa481ca3d
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\f4\f4429ca4dd86ead0d02618efa481ca3d
+    projectPath: Library\Artifacts\f4\f4429ca4dd86ead0d02618efa481ca3d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\e1\e1ed7ba006ba0373cd23c91200616e9e
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\e1\e1ed7ba006ba0373cd23c91200616e9e
-    projectPath: Library\Artifacts\e1\e1ed7ba006ba0373cd23c91200616e9e
+  - path: Ripple_Demo\Library\Artifacts\f9\f90bc9b32e08df511f42ca54d6fb0a84
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\f9\f90bc9b32e08df511f42ca54d6fb0a84
+    projectPath: Library\Artifacts\f9\f90bc9b32e08df511f42ca54d6fb0a84
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\e3\e3eab34e66cdd56744b4d81aae1663d3
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\e3\e3eab34e66cdd56744b4d81aae1663d3
-    projectPath: Library\Artifacts\e3\e3eab34e66cdd56744b4d81aae1663d3
+  - path: Ripple_Demo\Library\Artifacts\f9\f984527abc50b86f0c03db4dc9ef987e
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\f9\f984527abc50b86f0c03db4dc9ef987e
+    projectPath: Library\Artifacts\f9\f984527abc50b86f0c03db4dc9ef987e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\ea\ea3ce0846055881b1cc5c286897c4237
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\ea\ea3ce0846055881b1cc5c286897c4237
-    projectPath: Library\Artifacts\ea\ea3ce0846055881b1cc5c286897c4237
+  - path: Ripple_Demo\Library\Artifacts\fb\fb364b2b761d00d12a4e70473d327e01
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\fb\fb364b2b761d00d12a4e70473d327e01
+    projectPath: Library\Artifacts\fb\fb364b2b761d00d12a4e70473d327e01
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\f1\f1702b9f9e8212da728f83dd9701b748
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\f1\f1702b9f9e8212da728f83dd9701b748
-    projectPath: Library\Artifacts\f1\f1702b9f9e8212da728f83dd9701b748
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\f1\f19d2b413b9714765154091b27aa781e
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\f1\f19d2b413b9714765154091b27aa781e
-    projectPath: Library\Artifacts\f1\f19d2b413b9714765154091b27aa781e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\f4\f413a59f84b9da20206f685c8968fc0b
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\f4\f413a59f84b9da20206f685c8968fc0b
-    projectPath: Library\Artifacts\f4\f413a59f84b9da20206f685c8968fc0b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\f6\f619b955cda1f7c6150b0be58e627c0c
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\f6\f619b955cda1f7c6150b0be58e627c0c
-    projectPath: Library\Artifacts\f6\f619b955cda1f7c6150b0be58e627c0c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\f6\f662fc06fa98f9471c84be5e8a29fb67
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\f6\f662fc06fa98f9471c84be5e8a29fb67
-    projectPath: Library\Artifacts\f6\f662fc06fa98f9471c84be5e8a29fb67
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\f8\f8286362975df0b04026aaddcfe6dd42
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\f8\f8286362975df0b04026aaddcfe6dd42
-    projectPath: Library\Artifacts\f8\f8286362975df0b04026aaddcfe6dd42
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\f8\f848fd8729360a570fd91012b9e9370e
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\f8\f848fd8729360a570fd91012b9e9370e
-    projectPath: Library\Artifacts\f8\f848fd8729360a570fd91012b9e9370e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\f8\f8519ee4cc475168208b94e8f8c13e16
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\f8\f8519ee4cc475168208b94e8f8c13e16
-    projectPath: Library\Artifacts\f8\f8519ee4cc475168208b94e8f8c13e16
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\fc\fcaf8aa43c78088ed2988f956ff0c83d
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\fc\fcaf8aa43c78088ed2988f956ff0c83d
-    projectPath: Library\Artifacts\fc\fcaf8aa43c78088ed2988f956ff0c83d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\fd\fd4a0bb9f23aecdb7635bb897b436464
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\fd\fd4a0bb9f23aecdb7635bb897b436464
-    projectPath: Library\Artifacts\fd\fd4a0bb9f23aecdb7635bb897b436464
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Ripple_Demo\Library\Artifacts\fe\fe3fa28d3e24da3091a29ad13b7a0bed
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\fe\fe3fa28d3e24da3091a29ad13b7a0bed
-    projectPath: Library\Artifacts\fe\fe3fa28d3e24da3091a29ad13b7a0bed
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Ripple_Demo\Library\Artifacts\ff\ffa101f3a48d9885e6fa034fd147fe05
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\ff\ffa101f3a48d9885e6fa034fd147fe05
-    projectPath: Library\Artifacts\ff\ffa101f3a48d9885e6fa034fd147fe05
+  - path: Ripple_Demo\Library\Artifacts\ff\ff482a2be33ef5bdd5484ad94ade78da
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\Artifacts\ff\ff482a2be33ef5bdd5484ad94ade78da
+    projectPath: Library\Artifacts\ff\ff482a2be33ef5bdd5484ad94ade78da
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1605,6 +1224,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Ripple_Demo\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Ripple_Demo\Library\CurrentMaximizeLayout.dwlt
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
@@ -1617,6 +1242,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Ripple_Demo\Library\EditorSnapSettings.asset
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\EditorSnapSettings.asset
+    projectPath: Library\EditorSnapSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Ripple_Demo\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -1653,6 +1284,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Ripple_Demo\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Ripple_Demo\Library\SceneVisibilityState.asset
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -1677,6 +1314,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Ripple_Demo\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Ripple_Demo\Library\SourceAssetDB
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -1689,12 +1332,96 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Ripple_Demo\Library\StateCache\PrefabStageHierarchy\05\05bf5be2d1f8e9410ee52b8beff6c1b4.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\PrefabStageHierarchy\05\05bf5be2d1f8e9410ee52b8beff6c1b4.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\05\05bf5be2d1f8e9410ee52b8beff6c1b4.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\StateCache\PrefabStageHierarchy\17\1701a5610587fade33ab9e63284447f8.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\PrefabStageHierarchy\17\1701a5610587fade33ab9e63284447f8.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\17\1701a5610587fade33ab9e63284447f8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\StateCache\PrefabStageHierarchy\3c\3ce188aa0d88f1f733cea4173e3d2dff.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\PrefabStageHierarchy\3c\3ce188aa0d88f1f733cea4173e3d2dff.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\3c\3ce188aa0d88f1f733cea4173e3d2dff.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\StateCache\PrefabStageHierarchy\5a\5a9136fd626a5603b1d83831040a7340.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\PrefabStageHierarchy\5a\5a9136fd626a5603b1d83831040a7340.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\5a\5a9136fd626a5603b1d83831040a7340.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\StateCache\PrefabStageHierarchy\5f\5f7bfb4bc0a10759e7c0c2646f0d31de.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\PrefabStageHierarchy\5f\5f7bfb4bc0a10759e7c0c2646f0d31de.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\5f\5f7bfb4bc0a10759e7c0c2646f0d31de.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\StateCache\PrefabStageHierarchy\b0\b0efb0b24fa574582b0cbb4826701807.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\PrefabStageHierarchy\b0\b0efb0b24fa574582b0cbb4826701807.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\b0\b0efb0b24fa574582b0cbb4826701807.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\StateCache\PrefabStageHierarchy\b7\b73125ad45bde6d486f40166c91f71d4.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\PrefabStageHierarchy\b7\b73125ad45bde6d486f40166c91f71d4.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\b7\b73125ad45bde6d486f40166c91f71d4.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\StateCache\SceneView\30\301ab3149b9758ab5ab6d403eb19375d.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\SceneView\30\301ab3149b9758ab5ab6d403eb19375d.json
+    projectPath: Library\StateCache\SceneView\30\301ab3149b9758ab5ab6d403eb19375d.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\StateCache\SceneView\37\37ce865f9d67e0eca2edbf7509031202.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\SceneView\37\37ce865f9d67e0eca2edbf7509031202.json
+    projectPath: Library\StateCache\SceneView\37\37ce865f9d67e0eca2edbf7509031202.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\StateCache\SceneView\3b\3be22823e3e0b258387177e706feae56.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\SceneView\3b\3be22823e3e0b258387177e706feae56.json
+    projectPath: Library\StateCache\SceneView\3b\3be22823e3e0b258387177e706feae56.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\StateCache\SceneView\5a\5a51eb440a302c30224ad768da2ae972.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\SceneView\5a\5a51eb440a302c30224ad768da2ae972.json
+    projectPath: Library\StateCache\SceneView\5a\5a51eb440a302c30224ad768da2ae972.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Ripple_Demo\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Ripple_Demo\Library\StateCache\SceneView\a0\a0cd4f35d62649012b7bea8287e653a5.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\SceneView\a0\a0cd4f35d62649012b7bea8287e653a5.json
+    projectPath: Library\StateCache\SceneView\a0\a0cd4f35d62649012b7bea8287e653a5.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\StateCache\SceneView\e0\e0f3c9f59eaa9209e42cb97a12774545.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\SceneView\e0\e0f3c9f59eaa9209e42cb97a12774545.json
+    projectPath: Library\StateCache\SceneView\e0\e0f3c9f59eaa9209e42cb97a12774545.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Library\StateCache\SceneView\f2\f21e99108b3c4563d9a7de0ff6268d60.json
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Library\StateCache\SceneView\f2\f21e99108b3c4563d9a7de0ff6268d60.json
+    projectPath: Library\StateCache\SceneView\f2\f21e99108b3c4563d9a7de0ff6268d60.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Ripple_Demo\Logs\AssetImportWorker0.log
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
@@ -1712,28 +1439,22 @@ MonoBehaviour:
     projectPath: Logs\AssetImportWorker1.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Ripple_Demo\Logs\AssetImportWorker1-prev.log
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Logs\AssetImportWorker1-prev.log
     projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Ripple_Demo\Logs\AssetImportWorker2.log
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Logs\AssetImportWorker2.log
     projectPath: Logs\AssetImportWorker2.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Ripple_Demo\Logs\AssetImportWorker2-prev.log
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Logs\AssetImportWorker2-prev.log
     projectPath: Logs\AssetImportWorker2-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Ripple_Demo\Logs\AssetImportWorker3.log
-    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Logs\AssetImportWorker3.log
-    projectPath: Logs\AssetImportWorker3.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -1742,16 +1463,34 @@ MonoBehaviour:
     projectPath: Logs\AssetImportWorker3-prev.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Ripple_Demo\Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Ripple_Demo\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ripple_Demo\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Ripple_Demo\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ripple_Demo\Temp\ProcessJobs\76b60b780e5bc3b8abcd2c58766f1f1d.bakert
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\Temp\ProcessJobs\76b60b780e5bc3b8abcd2c58766f1f1d.bakert
+    projectPath: Temp\ProcessJobs\76b60b780e5bc3b8abcd2c58766f1f1d.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1767,3 +1506,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Ripple_Demo\UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\yingy\OneDrive\Documents\GitHub\Ripple-Demo\Ripple_Demo\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

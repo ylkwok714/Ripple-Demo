@@ -8,16 +8,13 @@ using UnityEngine;
 public class Throw : MonoBehaviour
 {
 
-    private Vector3 mousePressDownPos;
-    private Vector3 mouseReleasePos;
-
     private Vector3 StartStonePosition;
     private Quaternion StartStoneRotate;
 
     public float forceMultiplier = 10;
     public float spawnY = 0f;
     public float skipSpeed = 3.0f;
-    public static GameObject targetPlatform;
+    //public static GameObject targetPlatform;
     public GameObject[] platformOptions;
     private Rigidbody rb;
     Queue<Vector3> contactPoints = new Queue<Vector3>();
@@ -28,6 +25,7 @@ public class Throw : MonoBehaviour
     public GameObject parabolaHolder;
     public Transform stoneHoldPosition;
     public GameObject skippingStone;
+    public Transform oceanObjectHolder;
 
     private float timer = 0;
     //private 
@@ -39,10 +37,6 @@ public class Throw : MonoBehaviour
         //contactPoints.Enqueue(player.position);
         StartStonePosition = transform.position;
         StartStoneRotate = transform.rotation;
-        //player.gameObject.AddComponent<ParabolaController>();
-
-        //player.gameObject.GetComponent<ParabolaController>().ParabolaRoot = null;
-        //player.gameObject.GetComponent<ParabolaController>().Speed = 1.5f;
 
 
     }
@@ -81,7 +75,15 @@ public class Throw : MonoBehaviour
         }
         if (Input.GetButtonDown("Camera") && hasCollidedOnce)
         {
+            int numToDestroy = formedPlatforms.Count;
+            for(int i = 0; i < numToDestroy-1; i++)
+            {
+                GameObject desPlatform = formedPlatforms.Dequeue();
+                Destroy(desPlatform);
+            }
+            contactPoints.Clear();
             GameObject newStone = Instantiate(gameObject);
+            newStone.GetComponent<Renderer>().enabled = true;
             newStone.transform.SetParent(player);
             newStone.transform.position = stoneHoldPosition.position;
             hasCollidedOnce = false;
@@ -122,32 +124,10 @@ public class Throw : MonoBehaviour
             parabolaHolder.transform.GetChild(1).position = pointB;
             parabolaHolder.transform.GetChild(2).position = pointC;
 
-            //player.transform.position = contactPoints.Dequeue();
-            //yield return new WaitForSeconds(3);
-            //spawn empty object with start point (character current position), mid point(apex), end point(next posiiton)
-            //GameObject paraRoot = new GameObject("paraRoot");
-            //GameObject startPoint = new GameObject("A");
-            //GameObject midPoint = new GameObject("B");
-            //GameObject endPoint = new GameObject("C");
-            //paraRoot.transform.position = player.position;
-            //startPoint.transform.position = pointA;
-            //midPoint.transform.position = pointB;
-            //endPoint.transform.position = pointC;
-            //startPoint.transform.SetParent(paraRoot.transform); 
-            //midPoint.transform.SetParent(paraRoot.transform); 
-            //endPoint.transform.SetParent(paraRoot.transform);
-
-            //player.gameObject.AddComponent<ParabolaController>();
-
-            //player.gameObject.GetComponent<ParabolaController>().ParabolaRoot = paraRoot;
-            //player.gameObject.GetComponent<ParabolaController>().Speed = 1;
+           
             player.gameObject.GetComponent<ParabolaController>().FollowParabola();
         }
-        //player animation with parabola
-        //paraRoot.GetComponent<ParabolaController>().Autostart = true;
-        //delete empty game object parent
-        //Destroy(paraRoot);
-
+        
 
     }
 
@@ -174,25 +154,30 @@ public class Throw : MonoBehaviour
     private void OnCollisionEnter(Collision collision)
     {
         
-        if (collision.transform.name == "Ocean" && !hasCollidedOnce)
+        if (collision.transform.IsChildOf(oceanObjectHolder) && !hasCollidedOnce)
         {
             hasCollidedOnce = true;
+            GetComponent<Renderer>().enabled = false;
             Vector3 offsetY = new Vector3(0f, spawnY, 0f);
             int platformIndex = Random.Range(0, platformOptions.Length);
-            firstPoint = collision.contacts[0].point;
-            currentPoint = firstPoint;
             //Debug.Log("You collided at " + collision.contacts[0].point + ".");
             //targetPlatform = Instantiate(platformOptions[platformIndex], collision.contacts[0].point + offsetY, Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
-            targetPlatform = Instantiate(platformOptions[platformIndex], collision.contacts[0].point + offsetY, Quaternion.identity);
+            GameObject targetPlatform = Instantiate(platformOptions[platformIndex], collision.contacts[0].point + offsetY, Quaternion.identity);
+            targetPlatform.transform.Rotate(-90,0,0);
             //GetComponent<JumpPath>().targetPosition = targetPlatform;
+            Transform landPos = targetPlatform.transform.Find("LandingPosition");
+            //firstPoint = landPos.position;
+            currentPoint = landPos.position;
+
+            Vector3 targetLanding = new Vector3(landPos.position.x, landPos.position.y, landPos.position.z);
             formedPlatforms.Enqueue(targetPlatform);
-            contactPoints.Enqueue(collision.contacts[0].point);
+            contactPoints.Enqueue(targetLanding);
 
             if(throwCode > 1)
             {
                 contactPoints.Dequeue();
                 formedPlatforms.Dequeue();
-                SpawnPlatforms(throwCode - 1);
+                SpawnPlatforms(throwCode , targetLanding);
                 Destroy(targetPlatform);
             }
 
@@ -206,38 +191,31 @@ public class Throw : MonoBehaviour
 
     }
 
-    private void SpawnPlatforms(int numPlatforms)
+    private void SpawnPlatforms(int numPlatforms, Vector3 targetPos)
     {
-
-        Vector3 firstDistance = firstPoint - transform.position;
-        Debug.Log(firstDistance);
+        Vector3 firstDistance = currentPoint - player.transform.position;
+        //Debug.Log(firstDistance);
         Debug.Log(throwCode);
-        Vector3 rootPosition = targetPlatform.transform.position;
+        Vector3 rootPosition = player.transform.position;
         //Vector3 furtherPosition = new Vector3(rootPosition.x + firstDistance.x, spawnY, rootPosition.z + firstDistance.z);
         Vector3 furtherPosition = new Vector3(rootPosition.x + firstDistance.x, spawnY, rootPosition.z + firstDistance.z);
         int platformIndex = Random.Range(0, platformOptions.Length);
 
         for (int i = 0; i < numPlatforms; i++)
         {
+            Vector3 cameraDirection = firstPersonCamera.transform.forward;
 
+            Vector3 spawnPoint = new Vector3(furtherPosition.x +(firstDistance.x*i), spawnY, furtherPosition.z + (firstDistance.z * i));
+            //Vector3 spawnPoint = new Vector3(cameraDirection.x * (i + throwCode), spawnY, cameraDirection.z * (i + throwCode));
             //GameObject p = Instantiate(platformOptions[platformIndex], furtherPosition * (i + 1), Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
-            GameObject p = Instantiate(platformOptions[platformIndex], furtherPosition * (i + 1), Quaternion.identity);
+            GameObject p = Instantiate(platformOptions[platformIndex], spawnPoint, Quaternion.identity);
+            p.transform.Rotate(-90, 0, 0);
+
             formedPlatforms.Enqueue(p);
-            contactPoints.Enqueue(furtherPosition * (i + 1));
-
-            /*
-            if(i == 0)
-            {
-                Instantiate(platformOptions[platformIndex], furtherPosition , Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
-                contactPoints.Enqueue(furtherPosition);
-
-            }
-            else
-            {
-                Instantiate(platformOptions[platformIndex], furtherPosition*(i+1), Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
-                contactPoints.Enqueue(furtherPosition * (i+1));
-
-            }*/
+            Transform landPos = p.transform.Find("LandingPosition");
+            Vector3 targetLanding = new Vector3(landPos.position.x, landPos.position.y, landPos.position.z);
+            //contactPoints.Enqueue(furtherPosition * (i + 1));
+            contactPoints.Enqueue(targetLanding);
         }
 
 

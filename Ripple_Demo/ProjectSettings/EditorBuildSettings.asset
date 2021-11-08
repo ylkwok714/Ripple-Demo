@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/RippleOceanLevel.unity
+    guid: 17aa244819e152e4ea3037b467905da3
+  - enabled: 1
+    path: Assets/Scenes/WhaleCutscene.unity
+    guid: b84684cf5fd23e043a6d09d89672d0f3
   m_configObjects: {}

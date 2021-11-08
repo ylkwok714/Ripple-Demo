@@ -14,7 +14,7 @@ public class StonePath : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        targetPosition = Throw.targetPlatform;
+        //targetPosition = Throw.targetPlatform;
     }
 
     // Update is called once per frame
