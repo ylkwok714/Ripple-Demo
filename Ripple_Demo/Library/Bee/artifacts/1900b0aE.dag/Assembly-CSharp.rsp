@@ -321,6 +321,7 @@
 "Assets/LowPolyWater_Pack/Scripts/LowPolyWater.cs"
 "Assets/Scripts/CameraChange.cs"
 "Assets/Scripts/CharacterJump.cs"
+"Assets/Scripts/DelayPlatformAnimation.cs"
 "Assets/Scripts/FirstPersonCamera.cs"
 "Assets/Scripts/Float.cs"
 "Assets/Scripts/ParabolaController.cs"

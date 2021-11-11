@@ -23,9 +23,11 @@ public class Throw : MonoBehaviour
     public Transform player;
     public GameObject cameraModeController;
     public GameObject parabolaHolder;
+    public GameObject stoneParabolaHolder;
     public Transform stoneHoldPosition;
     public GameObject skippingStone;
     public Transform oceanObjectHolder;
+    public GameObject fakeStoneForPathing;
 
     private float timer = 0;
     //private 
@@ -34,6 +36,7 @@ public class Throw : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();
+        //fakeStoneForPathing.GetComponent<Renderer>().enabled = false;
         //contactPoints.Enqueue(player.position);
         StartStonePosition = transform.position;
         StartStoneRotate = transform.rotation;
@@ -62,7 +65,8 @@ public class Throw : MonoBehaviour
             //{
             //Debug.Log(cpClone.Dequeue());
             //if(cpClone.Count > 0)
-                PlayerJumpingSequence();
+            cameraModeController.GetComponent<CameraChange>().manualChange = true ;
+            PlayerJumpingSequence();
 
             //}
         }
@@ -133,7 +137,7 @@ public class Throw : MonoBehaviour
 
     void Shoot()
     {
-        int intensity = throwCode * 3;
+        int intensity = throwCode * 5;
         //Vector3 newPostion = new Vector3(firstPersonCamera.transform.forward.x+intensity, firstPersonCamera.transform.forward.y + intensity, firstPersonCamera.transform.forward.z + intensity);
         Vector3 newPosition = firstPersonCamera.transform.forward * intensity;
 
@@ -150,6 +154,7 @@ public class Throw : MonoBehaviour
 
     Vector3 firstPoint;
     Vector3 currentPoint;
+    Vector3 stoneCurrentLocation;
     private bool hasCollidedOnce = false;
     private void OnCollisionEnter(Collision collision)
     {
@@ -162,27 +167,29 @@ public class Throw : MonoBehaviour
             int platformIndex = Random.Range(0, platformOptions.Length);
             //Debug.Log("You collided at " + collision.contacts[0].point + ".");
             //targetPlatform = Instantiate(platformOptions[platformIndex], collision.contacts[0].point + offsetY, Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
-            GameObject targetPlatform = Instantiate(platformOptions[platformIndex], collision.contacts[0].point + offsetY, Quaternion.identity);
+            GameObject targetPlatform = Instantiate(platformOptions[platformIndex], collision.contacts[0].point + offsetY, Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
             targetPlatform.transform.Rotate(-90,0,0);
             //GetComponent<JumpPath>().targetPosition = targetPlatform;
             Transform landPos = targetPlatform.transform.Find("LandingPosition");
             //firstPoint = landPos.position;
             currentPoint = landPos.position;
+            stoneCurrentLocation = player.transform.position;
 
+            StoneTravelPath(currentPoint);
             Vector3 targetLanding = new Vector3(landPos.position.x, landPos.position.y, landPos.position.z);
             formedPlatforms.Enqueue(targetPlatform);
             contactPoints.Enqueue(targetLanding);
 
-            if(throwCode > 1)
+            if(throwCode >= 1)
             {
                 contactPoints.Dequeue();
                 formedPlatforms.Dequeue();
-                SpawnPlatforms(throwCode , targetLanding);
                 Destroy(targetPlatform);
+                SpawnPlatforms(throwCode , targetLanding);
             }
 
             //force player to go back to 3rd person camera
-            cameraModeController.GetComponent<CameraChange>().manualChange = true ;
+            //cameraModeController.GetComponent<CameraChange>().manualChange = true ;
         }
 
         transform.position = StartStonePosition;
@@ -214,11 +221,30 @@ public class Throw : MonoBehaviour
             formedPlatforms.Enqueue(p);
             Transform landPos = p.transform.Find("LandingPosition");
             Vector3 targetLanding = new Vector3(landPos.position.x, landPos.position.y, landPos.position.z);
+            StoneTravelPath(targetLanding);
+
             //contactPoints.Enqueue(furtherPosition * (i + 1));
             contactPoints.Enqueue(targetLanding);
         }
 
 
+    }
+
+    void StoneTravelPath(Vector3 stoneTargetLocation)
+    {
+        Vector3 pointA = stoneCurrentLocation;
+        Vector3 pointC = stoneTargetLocation;
+
+        Vector3 pointB = (pointA + pointC) / 2;
+        pointB.y += 1.0f;
+
+        stoneParabolaHolder.transform.GetChild(0).position = pointA;
+        stoneParabolaHolder.transform.GetChild(1).position = pointB;
+        stoneParabolaHolder.transform.GetChild(2).position = pointC;
+
+        fakeStoneForPathing.GetComponent<Renderer>().enabled = true;
+        fakeStoneForPathing.gameObject.GetComponent<ParabolaController>().FollowParabola();
+        stoneCurrentLocation = stoneTargetLocation;
     }
 
 }

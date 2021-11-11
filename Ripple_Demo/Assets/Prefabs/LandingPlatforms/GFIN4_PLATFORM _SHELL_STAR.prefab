@@ -205,6 +205,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1192789788165746621}
   - component: {fileID: 1659324138001762150}
+  - component: {fileID: -8376200965522423940}
   m_Layer: 0
   m_Name: GFIN4_PLATFORM _SHELL_STAR
   m_TagString: Untagged
@@ -250,6 +251,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &-8376200965522423940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2001413882683684103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 337ca8f6d217bdb4bb69eaebc908cd1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  delayTime: 20
 --- !u!1 &2132143785114624732
 GameObject:
   m_ObjectHideFlags: 0
@@ -501,7 +515,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6219965400300592627}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.0024, z: 0.0592}
+  m_LocalPosition: {x: 0, y: -0.0024, z: 0.0497}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1192789788165746621}

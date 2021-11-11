@@ -150,6 +150,7 @@ MonoBehaviour:
   player: {fileID: 0}
   cameraModeController: {fileID: 0}
   parabolaHolder: {fileID: 0}
+  stoneParabolaHolder: {fileID: 0}
   stoneHoldPosition: {fileID: 0}
   skippingStone: {fileID: 5127911745754395401}
   oceanObjectHolder: {fileID: 0}
