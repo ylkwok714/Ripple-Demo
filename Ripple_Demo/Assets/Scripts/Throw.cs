@@ -57,18 +57,16 @@ public class Throw : MonoBehaviour
             timer = Time.time;
         }
         
-        if (Input.GetKeyDown(KeyCode.Space))
+
+        if (Input.GetKeyDown(KeyCode.Space) )
         {
-            //StartCoroutine(PlayerJumpingSequence());
-            //Debug.Log(contactPoints.Count);
-            //for(int i = 0; i < contactPoints.Count; i++)
-            //{
-            //Debug.Log(cpClone.Dequeue());
-            //if(cpClone.Count > 0)
-            cameraModeController.GetComponent<CameraChange>().manualChange = true ;
+           
+            if(cameraModeController.GetComponent<CameraChange>().CameraMode == 1)
+                cameraModeController.GetComponent<CameraChange>().manualChange = true;
+
+            
             PlayerJumpingSequence();
 
-            //}
         }
 
         if (Input.GetMouseButtonUp(0))
@@ -77,7 +75,7 @@ public class Throw : MonoBehaviour
             SkipIntensity(timePassed);
             Shoot();
         }
-        if (Input.GetButtonDown("Camera") && hasCollidedOnce)
+        if (Input.GetButtonDown("Camera") && hasCollidedOnce && onLastPlatform)
         {
             int numToDestroy = formedPlatforms.Count;
             for(int i = 0; i < numToDestroy-1; i++)
@@ -131,7 +129,10 @@ public class Throw : MonoBehaviour
            
             player.gameObject.GetComponent<ParabolaController>().FollowParabola();
         }
-        
+        if(contactPoints.Count == 0)
+        {
+            onLastPlatform = true;
+        }
 
     }
 
@@ -156,6 +157,7 @@ public class Throw : MonoBehaviour
     Vector3 currentPoint;
     Vector3 stoneCurrentLocation;
     private bool hasCollidedOnce = false;
+    private bool onLastPlatform = false;
     private void OnCollisionEnter(Collision collision)
     {
         
@@ -185,7 +187,8 @@ public class Throw : MonoBehaviour
                 contactPoints.Dequeue();
                 formedPlatforms.Dequeue();
                 Destroy(targetPlatform);
-                SpawnPlatforms(throwCode , targetLanding);
+                StartCoroutine(SpawnPlatforms(throwCode , targetLanding));
+                //SpawnPlatforms(throwCode , targetLanding);
             }
 
             //force player to go back to 3rd person camera
@@ -198,7 +201,7 @@ public class Throw : MonoBehaviour
 
     }
 
-    private void SpawnPlatforms(int numPlatforms, Vector3 targetPos)
+    private IEnumerator SpawnPlatforms(int numPlatforms, Vector3 targetPos)
     {
         Vector3 firstDistance = currentPoint - player.transform.position;
         //Debug.Log(firstDistance);
@@ -225,6 +228,7 @@ public class Throw : MonoBehaviour
 
             //contactPoints.Enqueue(furtherPosition * (i + 1));
             contactPoints.Enqueue(targetLanding);
+            yield return new WaitForSeconds(1.0f);
         }
 
 

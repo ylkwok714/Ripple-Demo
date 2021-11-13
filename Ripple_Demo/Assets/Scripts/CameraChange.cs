@@ -31,9 +31,9 @@ public class CameraChange : MonoBehaviour
         }
     }
 
-    IEnumerator ChangeCameraMode(int mode)
+    public IEnumerator ChangeCameraMode(int mode)
     {
-        yield return new WaitForSeconds(0.01f);
+        yield return new WaitForSeconds(0.00001f);
 
         if (mode == 0)
         {
