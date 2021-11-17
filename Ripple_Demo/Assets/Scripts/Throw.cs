@@ -27,7 +27,7 @@ public class Throw : MonoBehaviour
     public Transform stoneHoldPosition;
     public GameObject skippingStone;
     public Transform oceanObjectHolder;
-    public GameObject fakeStoneForPathing;
+    //public GameObject fakeStoneForPathing;
 
     private float timer = 0;
     //private 
@@ -65,7 +65,9 @@ public class Throw : MonoBehaviour
                 cameraModeController.GetComponent<CameraChange>().manualChange = true;
 
             
-            PlayerJumpingSequence();
+            
+            StartCoroutine(PlayerJumpingSequence());
+
 
         }
 
@@ -81,7 +83,9 @@ public class Throw : MonoBehaviour
             for(int i = 0; i < numToDestroy-1; i++)
             {
                 GameObject desPlatform = formedPlatforms.Dequeue();
-                Destroy(desPlatform);
+                Animator anim = desPlatform.GetComponent<Animator>();
+                anim.SetBool("readyToSink", true);
+                Destroy(desPlatform,40f);
             }
             contactPoints.Clear();
             GameObject newStone = Instantiate(gameObject);
@@ -108,12 +112,16 @@ public class Throw : MonoBehaviour
         }
     }
     
-    public void PlayerJumpingSequence()
+    public IEnumerator PlayerJumpingSequence()
     {
         //Queue<Vector3> cpClone = new Queue<Vector3>(contactPoints);
         //cpClone = new Queue<Vector3>(contactPoints);
         //contactPoints.Dequeue();
         //iterate through queue
+        Animator a = player.Find("Avatar").GetComponent<Animator>();
+        //a.Play("Jump_Character");
+        //a.SetBool("preJump", true);
+        //a.SetTrigger("jump");
         if (contactPoints.Count > 0)
         {
             Vector3 pointA = player.transform.position;
@@ -125,9 +133,16 @@ public class Throw : MonoBehaviour
             parabolaHolder.transform.GetChild(0).position = pointA;
             parabolaHolder.transform.GetChild(1).position = pointB;
             parabolaHolder.transform.GetChild(2).position = pointC;
+            a.Play("Jump_Character");
+            yield return new WaitForSeconds(1.0f);
+            //if (player.transform.position != pointB)
+            //{
+            //    a.Play("Jump_Character");
+            //    a.Play("Rise_Character");
+            //}
 
-           
             player.gameObject.GetComponent<ParabolaController>().FollowParabola();
+            
         }
         if(contactPoints.Count == 0)
         {
@@ -177,7 +192,7 @@ public class Throw : MonoBehaviour
             currentPoint = landPos.position;
             stoneCurrentLocation = player.transform.position;
 
-            StoneTravelPath(currentPoint);
+            //StoneTravelPath(currentPoint);
             Vector3 targetLanding = new Vector3(landPos.position.x, landPos.position.y, landPos.position.z);
             formedPlatforms.Enqueue(targetPlatform);
             contactPoints.Enqueue(targetLanding);
@@ -224,7 +239,7 @@ public class Throw : MonoBehaviour
             formedPlatforms.Enqueue(p);
             Transform landPos = p.transform.Find("LandingPosition");
             Vector3 targetLanding = new Vector3(landPos.position.x, landPos.position.y, landPos.position.z);
-            StoneTravelPath(targetLanding);
+            //StoneTravelPath(targetLanding);
 
             //contactPoints.Enqueue(furtherPosition * (i + 1));
             contactPoints.Enqueue(targetLanding);
@@ -233,7 +248,7 @@ public class Throw : MonoBehaviour
 
 
     }
-
+    /*
     void StoneTravelPath(Vector3 stoneTargetLocation)
     {
         Vector3 pointA = stoneCurrentLocation;
@@ -249,6 +264,6 @@ public class Throw : MonoBehaviour
         fakeStoneForPathing.GetComponent<Renderer>().enabled = true;
         fakeStoneForPathing.gameObject.GetComponent<ParabolaController>().FollowParabola();
         stoneCurrentLocation = stoneTargetLocation;
-    }
+    }*/
 
 }

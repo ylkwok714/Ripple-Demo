@@ -35,7 +35,10 @@ public class ParabolaController : MonoBehaviour
 
     //draw
     protected ParabolaFly parabolaFly;
-    
+
+    public GameObject avatar;
+    Animator anim;
+
     void OnDrawGizmos()
     {
         if (gizmo == null)
@@ -67,7 +70,7 @@ public class ParabolaController : MonoBehaviour
     {
 
         parabolaFly = new ParabolaFly(ParabolaRoot.transform);
-
+        anim = avatar.transform.GetComponent<Animator>();
         if (Autostart)
         {
             RefreshTransforms(Speed);
@@ -89,7 +92,18 @@ public class ParabolaController : MonoBehaviour
             parabolaFly.GetParabolaIndexAtTime(animationTime, out parabolaIndexAfter);
 
             transform.position = parabolaFly.GetPositionAtTime(animationTime);
-
+            if(animationTime < parabolaFly.GetDuration() / 2)
+            {
+                anim.Play("Rise_Character");
+            }
+            else if((animationTime > parabolaFly.GetDuration()/2) && (animationTime < parabolaFly.GetDuration() *3/ 4))
+            {
+                anim.Play("Fall_Character");
+            }
+            else if(animationTime > parabolaFly.GetDuration() * 3 / 4)
+            {
+                anim.Play("Land_Character");
+            }
             if (parabolaIndexBefore != parabolaIndexAfter)
                 nextParbola = true;
 

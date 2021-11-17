@@ -145,7 +145,11 @@ MonoBehaviour:
   spawnY: -2
   skipSpeed: 3
   platformOptions:
-  - {fileID: 0}
+  - {fileID: 2783626849548116015, guid: b9f7d8d5ca624ae4e96d430fcd43a656, type: 3}
+  - {fileID: 1097192961506619933, guid: 37edda9e6070665438b3c3ce01bb59df, type: 3}
+  - {fileID: 6330083823306611624, guid: f35ed7a134bc93b4e8e43fd6aa69c1e5, type: 3}
+  - {fileID: 3431725868457694771, guid: 42cddf4c0004ea04ca5b9d8d4bf666d9, type: 3}
+  - {fileID: 276381655877656133, guid: 86cc36941bdf6b4439b2bd9e128d7b89, type: 3}
   firstPersonCamera: {fileID: 0}
   player: {fileID: 0}
   cameraModeController: {fileID: 0}
