@@ -8,7 +8,7 @@ public class CameraChange : MonoBehaviour
     public GameObject FirstCamera; //1
     public GameObject Stone;
     public int CameraMode;
-
+    public GameObject audioListenerObject;
     public bool manualChange = false;
 
 
@@ -43,12 +43,14 @@ public class CameraChange : MonoBehaviour
         {
             ThirdCamera.SetActive(true);
             FirstCamera.SetActive(false);
+            audioListenerObject.GetComponent<AudioCameraHandler>().SetCamera(0);
         }
         if (mode == 1)
         {
             ThirdCamera.SetActive(false);
             FirstCamera.SetActive(true);
             manualChange = false;
+            audioListenerObject.GetComponent<AudioCameraHandler>().SetCamera(1);
 
         }
 

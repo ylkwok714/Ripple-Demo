@@ -224,10 +224,11 @@ public class Throw : MonoBehaviour
         Vector3 rootPosition = player.transform.position;
         //Vector3 furtherPosition = new Vector3(rootPosition.x + firstDistance.x, spawnY, rootPosition.z + firstDistance.z);
         Vector3 furtherPosition = new Vector3(rootPosition.x + firstDistance.x, spawnY, rootPosition.z + firstDistance.z);
-        int platformIndex = Random.Range(0, platformOptions.Length);
 
         for (int i = 0; i < numPlatforms; i++)
         {
+            int platformIndex = Random.Range(0, platformOptions.Length);
+
             Vector3 cameraDirection = firstPersonCamera.transform.forward;
 
             Vector3 spawnPoint = new Vector3(furtherPosition.x +(firstDistance.x*i), spawnY, furtherPosition.z + (firstDistance.z * i));
