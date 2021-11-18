@@ -96,11 +96,11 @@ public class ParabolaController : MonoBehaviour
             {
                 anim.Play("Rise_Character");
             }
-            else if((animationTime > parabolaFly.GetDuration()/2) && (animationTime < parabolaFly.GetDuration() *3/ 4))
+            else if((animationTime > parabolaFly.GetDuration()/2) && (animationTime < parabolaFly.GetDuration() *7/ 8))
             {
                 anim.Play("Fall_Character");
             }
-            else if(animationTime > parabolaFly.GetDuration() * 3 / 4)
+            else if(animationTime > parabolaFly.GetDuration() * 7 / 8)
             {
                 anim.Play("Land_Character");
             }
@@ -115,6 +115,7 @@ public class ParabolaController : MonoBehaviour
             animationTime = float.MaxValue;
             Animation = false;
         }
+        
 
     }
 

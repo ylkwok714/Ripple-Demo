@@ -8,6 +8,8 @@ public class TriggerAnimation : MonoBehaviour
     public int cutsceneNumber;
     public GameObject triggerParameter;
     bool hasVisited = false;
+
+    public GameObject gameManager;
     
 
     private void OnTriggerEnter(Collider collision)
@@ -18,7 +20,11 @@ public class TriggerAnimation : MonoBehaviour
             Debug.Log("Have found cutscene trigger");
 
             hasVisited = true;
-            SceneManager.LoadScene(cutsceneNumber);
+            StartCoroutine(gameManager.GetComponent<SceneData>().SceneTransition(cutsceneNumber));
+            //gameManager.GetComponent<SceneData>().SceneTransition(cutsceneNumber);
+
         }
     }
+
+   
 }

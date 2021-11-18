@@ -15,9 +15,13 @@ public class CameraChange : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(CameraMode == 100)
+        {
+            StartCoroutine(TurnOffAllCameras());
+        }
         if (Input.GetButtonDown("Camera") || manualChange)
         {
-            if(CameraMode == 1)
+            if(CameraMode == 1|| CameraMode == 100)
             {
                 CameraMode = 0;
             }
@@ -47,6 +51,15 @@ public class CameraChange : MonoBehaviour
             manualChange = false;
 
         }
+
+    }
+
+    public IEnumerator TurnOffAllCameras()
+    {
+        yield return new WaitForSeconds(0.00001f);
+        FirstCamera.SetActive(false);
+        ThirdCamera.SetActive(false);
+
 
     }
 }

@@ -2054,22 +2054,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8f9d848d3454ce24fa725ceb34a0af26, type: 3}
   m_PrefabInstance: {fileID: 433395103}
   m_PrefabAsset: {fileID: 0}
---- !u!111 &1420504850
-Animation:
+--- !u!114 &1420504850
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1420504848}
   m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 4781951162920444690, guid: 8f9d848d3454ce24fa725ceb34a0af26, type: 3}
-  m_Animations:
-  - {fileID: 4781951162920444690, guid: 8f9d848d3454ce24fa725ceb34a0af26, type: 3}
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a548840453013ca4098eef3840c89b7a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!95 &1420504851
 Animator:
   serializedVersion: 3
