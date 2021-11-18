@@ -233,7 +233,7 @@ public class Throw : MonoBehaviour
             Vector3 spawnPoint = new Vector3(furtherPosition.x +(firstDistance.x*i), spawnY, furtherPosition.z + (firstDistance.z * i));
             //Vector3 spawnPoint = new Vector3(cameraDirection.x * (i + throwCode), spawnY, cameraDirection.z * (i + throwCode));
             //GameObject p = Instantiate(platformOptions[platformIndex], furtherPosition * (i + 1), Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
-            GameObject p = Instantiate(platformOptions[platformIndex], spawnPoint, Quaternion.identity);
+            GameObject p = Instantiate(platformOptions[platformIndex], spawnPoint, Quaternion.Euler(new Vector3(0, Random.Range(0, 360), 0)));
             p.transform.Rotate(-90, 0, 0);
 
             formedPlatforms.Enqueue(p);
